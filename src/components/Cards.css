@@ -3,14 +3,19 @@
 }
 .imgdiv {
   height: 260px;
-  width: 250px;
+  width: 260px;
   border: 1px solid;
+}
+.image{
+    width: 40%;
+    height: 20px;
 }
 .discriptiondiv {
   width: 70%;
   float: right;
   border: 1px solid green;
   margin-left: 10px;
+
 }
 .Leftdiv {
   border: 1px solid rgb(217, 0, 255);
@@ -26,9 +31,9 @@
 .name {
   font-size: 25px;
 }
-.description {
-  /* margin-left: px; */
-}
 .star {
   color: orangered;
+}
+.beds{
+    display: flex;
 }
