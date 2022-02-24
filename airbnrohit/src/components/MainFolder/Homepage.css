@@ -1,0 +1,53 @@
+.live{
+    margin-top:150px ;
+}
+.fl-cont {
+    width: 50%;
+    margin: auto;
+  }
+  
+  .backg {
+    width: 22%;
+    border-radius:20px ;
+    height: 200px;
+    border: 1px solid red;
+    background-color: rgb(222,49,81);
+    position: relative;
+  }
+  .backg .p{
+    position: absolute;
+    top:65%;
+    color: white;
+    font-size: 16px;
+  }
+  .fl {
+      width: 90%;
+    display: flex;
+    gap: 3.2%;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 50px;
+  }
+  .box1 div {
+    width: 100%;
+    height: 400px;
+    /* margin-right: 50px; */
+  }
+  .backg img {
+    width: 100%;
+    height: 200px;
+    border-radius:20px 20px 0 0;
+  
+  }
+  .backg .h2,.p{
+    color: white;
+    padding-left: 15px;
+  }
+  .heads{
+    margin-left:5%;
+    margin-top: 80px;
+  }
+  /* live */
+/* .footerH{
+  margin-top: 50px;
+} */
