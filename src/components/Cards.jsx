@@ -1,6 +1,7 @@
 import React from "react";
+import Carousel from 'react-material-ui-carousel'
 import "./Cards.css"
-import { Images } from "./Images";
+
 
 const Cards = (props) => {
 //   console.log(props);
@@ -8,20 +9,14 @@ const images = props.img
   return (
     
       <div className="Leftdiv" onClick={()=>{
-          return
+          return 
       }}>
-          {/* <div className="iamges">
-          {props.map((e)=>{
-            //   console.log(e);
-              return (
-                  <Images {...e}/>
-              )
-          })}
-          </div> */}
+          
          <div className="imgdiv">
          {
              images.map((e)=>{
-                 return <div ><img className="image" src = {`${e}` } /></div>
+                  return <div ><img className="image" src = {`${e}` } /></div>
+               
              })}
          </div>
          <div className="discriptiondiv">
@@ -29,9 +24,9 @@ const images = props.img
          <div className="name"> <p>{props.name}</p></div>
          <div className="description"><p>{props.description}</p></div>
          <div className="beds">
-              <p>Beds{props.beds},</p> 
-              <p>Bedrooms{props.bedrooms},</p>
-              <p>Bathrooms{props.bathrooms}</p>
+              <p> •{props.beds} Beds</p> 
+              <p> •{props.bedrooms} Bedrooms</p>
+              <p> •{props.bathrooms} Bathrooms</p>
          </div>
          <div className="price"><h3>₹{props.price}<span className="night">/night</span></h3> </div>
          <p>{props.location}</p> 
