@@ -1,0 +1,34 @@
+.price {
+  float: right;
+}
+.imgdiv {
+  height: 260px;
+  width: 250px;
+  border: 1px solid;
+}
+.discriptiondiv {
+  width: 70%;
+  float: right;
+  border: 1px solid green;
+  margin-left: 10px;
+}
+.Leftdiv {
+  border: 1px solid rgb(217, 0, 255);
+  display: flex;
+  width: 55%;
+  
+}
+.night {
+  color: gray;
+
+  font-weight: lighter;
+}
+.name {
+  font-size: 25px;
+}
+.description {
+  /* margin-left: px; */
+}
+.star {
+  color: orangered;
+}

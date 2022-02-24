@@ -1,0 +1,14 @@
+.Main {
+  background-color: whitesmoke;
+  margin-top: 100px;
+
+  border: 1px solid teal;
+}
+/* .leftdiv {
+  border: 1px solid red;
+  width: 50%;
+} */
+
+.title {
+  height: 150px;
+}

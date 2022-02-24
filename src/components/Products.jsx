@@ -1,16 +1,19 @@
 import data from "../Lucknow.json";
+import  Cards  from "./Cards";
+import "./product.css";
 
 export const Products = () => {
-  console.log(data)
+  console.log(data);
   return (
-    <div>
-      {data.map((e)=>(
-       <h1>name:{e.name}-location:{e.location}</h1>
-      
-      ))}
-
+    <div className="Main">
+      <div >
+        
+        {data.map((e) => {
+          return (
+            <Cards {...e}/>
+          )
+        })}
+      </div>
     </div>
-
   );
- 
 };
