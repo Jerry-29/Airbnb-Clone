@@ -1,0 +1,3535 @@
+[
+  {
+
+    "id": 41,
+    "name": "Comfort Home",
+    "price": 14812,
+    "rating": 1.32,
+    "location": "Lucknow",
+    "location_nearby": "Uttar Pradesh",
+    "img": [
+      "https://a0.muscache.com/im/pictures/bc6f1972-c5cd-41b6-a86e-43235a443aa3.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/df9a2d81-e01f-4b65-93b5-a0097dfcb2c6.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/cf092dd8-b319-4d83-91d4-33dd1ab63451.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/ed9170b9-db12-4df1-8c4d-0588eae680f4.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/f71c33e1-846d-4d92-8333-6909f018bad7.jpg?im_w=720"
+    ],
+    "cancel": true,
+    "typeofplace": "Hotel",
+    "instant_booking": false,
+    "parking": true,
+    "pool": false,
+    "tv": true,
+    "kitchen": false,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": false,
+    "pets": true,
+    "smoking": true,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "beds": 10,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      {
+        "id": 2,
+        "comment": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "id": 3,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 4,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 5,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 6,
+        "comment": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      },
+      {
+        "id": 7,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 8,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 9,
+        "comment": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      },
+      {
+        "id": 10,
+        "comment": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      },
+      {
+        "id": 11,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 12,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 13,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 14,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      },
+      {
+        "id": 16,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      { "id": 17, "comment": "Fusce consequat. Nulla nisl. Nunc nisl." },
+      {
+        "id": 18,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": true,
+    "beach_front": true,
+    "river_side": false,
+    "description": "Surrounded by greenery in the heart of the city, this sprawling bungalow is a perfect blend of Traditional and Contemporary with modern facilities.",
+    "hostedby": "Ashok"
+  },
+  {
+    "id": 42,
+    "name": "Premium 3 BHK in a Serene City Bungalow",
+    "price": 14571,
+    "rating": 3.88,
+    "location": "Lucknow",
+    "location_nearby": "Uttar Pradesh",
+    "img": [
+      "https://a0.muscache.com/im/pictures/aba321fc-c4ac-4621-92d5-2f70af775b0d.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/92658a88-965d-4361-908e-16eeaeaba06c.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/f4009c9e-1fc2-4340-b848-294ab6308a72.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/8676690a-476d-4e8d-adf8-0ac9b2d8c470.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/86b1c554-8ed1-44da-9139-42bcef404548.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": false,
+    "parking": true,
+    "pool": true,
+    "tv": false,
+    "kitchen": true,
+    "wifi": false,
+    "heating": true,
+    "hair_dryer": false,
+    "ac": false,
+    "pets": true,
+    "smoking": true,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "beds": 7,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 2,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 3,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 4,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 5,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 6,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 7,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 8,
+        "comment": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+      },
+      {
+        "id": 9,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 10,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 11,
+        "comment": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
+      },
+      {
+        "id": 12,
+        "comment": "Sed ante. Vivamus tortor. Duis mattis egestas metus."
+      },
+      {
+        "id": 13,
+        "comment": "In congue. Etiam justo. Etiam pretium iaculis justo."
+      },
+      {
+        "id": 14,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": true,
+    "beach_front": true,
+    "river_side": true,
+    "description": "Built on a 14K Sft landscaped plot, this bungalow flr offers 3 lavish suites, tasteful living rooms and a modern kitchen.The front garden, landscaped terrace, veranda and living area are perfect place to unwind & socialize",
+    "hostedby": "Rahul"
+  },
+  {
+    "id": 43,
+    "name": "Comfortable stay at Aashray Villa",
+    "price": 6679,
+    "rating": 1.68,
+    "location": "Lucknow",
+    "location_nearby": "Uttar Pradesh",
+    "img": [
+      "https://a0.muscache.com/im/pictures/028124b0-f81e-4e78-a326-a9e77cb8604c.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/48689604-5628-4d5e-b7c9-ad48903ac3a8.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/57bea015-6707-4399-823a-fd8bbaef5ef4.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/3752cd6d-b808-4a5e-9e8c-facd5bced094.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/92658a88-965d-4361-908e-16eeaeaba06c.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": false,
+    "parking": true,
+    "pool": false,
+    "tv": true,
+    "kitchen": true,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": true,
+    "ac": true,
+    "pets": true,
+    "smoking": true,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "beds": 3,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 2,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      },
+      {
+        "id": 3,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      },
+      {
+        "id": 4,
+        "comment": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      },
+      {
+        "id": 5,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": false,
+    "beach_front": true,
+    "river_side": true,
+    "description": "The place is beautiful with all the amenities you might need including a kitchen with all the utensils. very clean and very tasteful.",
+    "hostedby": "Deeparchi"
+  },
+  {
+    "id": 44,
+    "name": "RedChillies 1 BHK Apartment bedroom",
+    "price": 799,
+    "rating": 1.42,
+    "location": "Lucknow",
+    "location_nearby": "Uttar Pradesh",
+    "img": [
+      "https://a0.muscache.com/im/pictures/4a54cf61-6c9a-4abb-84d4-8c1303620659.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/8501ad5e-ee9f-4acd-a9a6-d1ebad1c135b.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/648ddff5-3115-4fc8-bd87-39ddca3bc55b.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/cf092dd8-b319-4d83-91d4-33dd1ab63451.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/648ddff5-3115-4fc8-bd87-39ddca3bc55b.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": true,
+    "parking": true,
+    "pool": true,
+    "tv": true,
+    "kitchen": false,
+    "wifi": true,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": false,
+    "pets": false,
+    "smoking": false,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "beds": 10,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      {
+        "id": 2,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 3,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 4,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 5,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 6,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 7,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 8,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 9,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 10,
+        "comment": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": false,
+    "beach_front": false,
+    "river_side": false,
+    "description": "Independent 2nd floor one Bed Room spacious Studio + an extra room, kitchen just 5 minute drive from Airport. The place is comfortably located at Krishna Nagar near to Kanpur Road",
+    "hostedby": "Nitin"
+  },
+  {
+    "id": 45,
+    "name": "Riverside Homestay",
+    "price": 2577,
+    "rating": 4.6,
+    "location": "Lucknow",
+    "location_nearby": "Uttar Pradesh",
+    "img": [
+      "https://a0.muscache.com/im/pictures/a49f35a4-d428-4335-a471-fa0db7f3daa2.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/760cc8c7-3f98-4504-979a-db318fac3e70.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/56a778b7-83a1-4582-b9ab-07d0f45a3922.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/140d1e23-5b89-4800-84e8-68c4cc060b9e.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/121ed1cf-b8c7-491a-8e11-00f45313da3c.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": false,
+    "parking": false,
+    "pool": false,
+    "tv": true,
+    "kitchen": true,
+    "wifi": true,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": true,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "beds": 3,
+    "self_checkin": false,
+    "review": null,
+    "no_of_guest": 2,
+    "gym": true,
+    "beach_front": true,
+    "river_side": false,
+    "description": "This adorable and comfortable house is on the banks of the river Gomti, stone's throw away from Hazratgunj, it is not an exaggeration to say that The Riverside Homestay is in the 'Heart of Lucknow'.",
+    "hostedby": "Sameer"
+  },
+  {
+    "id": 46,
+    "name": "Desire Golf Apartment",
+    "price": 13507,
+    "rating": 2.21,
+    "location": "Lucknow",
+    "location_nearby": "Uttar Pradesh",
+    "img": [
+      "https://a0.muscache.com/im/pictures/3020b4e2-be4c-40ac-8ab3-21e312e4850f.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/df9a2d81-e01f-4b65-93b5-a0097dfcb2c6.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/f4009c9e-1fc2-4340-b848-294ab6308a72.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/f71c33e1-846d-4d92-8333-6909f018bad7.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/028124b0-f81e-4e78-a326-a9e77cb8604c.jpg?im_w=960"
+    ],
+    "cancel": true,
+    "typeofplace": "Villa",
+    "instant_booking": true,
+    "parking": false,
+    "pool": false,
+    "tv": false,
+    "kitchen": false,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": false,
+    "pets": true,
+    "smoking": true,
+    "bedrooms": 3,
+    "bathrooms": 5,
+    "beds": 9,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      {
+        "id": 2,
+        "comment": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "id": 3,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 4,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 5,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 6,
+        "comment": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      },
+      {
+        "id": 7,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 8,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 9,
+        "comment": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      },
+      {
+        "id": 10,
+        "comment": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      },
+      {
+        "id": 11,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 12,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 13,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 14,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      },
+      {
+        "id": 16,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      { "id": 17, "comment": "Fusce consequat. Nulla nisl. Nunc nisl." },
+      {
+        "id": 18,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": false,
+    "beach_front": false,
+    "river_side": false,
+    "description": "It is an open airy apartment,suitable for group of family members or friends.Fully furnished with all the amenities that you might think of at your home.Its more of a home away yet home.",
+    "hostedby": "Sameer"
+  },
+  {
+    "id": 47,
+    "name": "Chinmaye",
+    "price": 2594,
+    "rating": 3.76,
+    "location": "Lucknow",
+    "location_nearby": "Uttar Pradesh",
+    "img": [
+      "https://a0.muscache.com/im/pictures/3020b4e2-be4c-40ac-8ab3-21e312e4850f.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/df9a2d81-e01f-4b65-93b5-a0097dfcb2c6.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/f4009c9e-1fc2-4340-b848-294ab6308a72.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/f71c33e1-846d-4d92-8333-6909f018bad7.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/028124b0-f81e-4e78-a326-a9e77cb8604c.jpg?im_w=960"
+    ],
+    "cancel": false,
+    "typeofplace": "Villa",
+    "instant_booking": true,
+    "parking": true,
+    "pool": false,
+    "tv": false,
+    "kitchen": true,
+    "wifi": true,
+    "heating": false,
+    "hair_dryer": true,
+    "ac": true,
+    "pets": true,
+    "smoking": true,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 8,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      {
+        "id": 2,
+        "comment": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "id": 3,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 4,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 5,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 6,
+        "comment": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      },
+      {
+        "id": 7,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 8,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 9,
+        "comment": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      },
+      {
+        "id": 10,
+        "comment": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      },
+      {
+        "id": 11,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 12,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 13,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 14,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      },
+      {
+        "id": 16,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      { "id": 17, "comment": "Fusce consequat. Nulla nisl. Nunc nisl." },
+      {
+        "id": 18,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": true,
+    "beach_front": false,
+    "river_side": true,
+    "description": "A cozy room in a bungalow well equipped with all essentials and amenities. A view of the garden, space designed to make you just feel at home whilst on your busy trip. Ideal for single travelers / safe housing / long stays.",
+    "hostedby": "Sameer"
+  },
+  {
+    "id": 48,
+    "name": "Nahil's-COVID Safe Villa Bungalow with 2 AC Room",
+    "price": 6778,
+    "rating": 2.59,
+    "location": "Lucknow",
+    "location_nearby": "Uttar Pradesh",
+    "img": [
+      "https://a0.muscache.com/im/pictures/0ccd0b11-dac1-4374-8c97-53b5a6195c06.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/22a1e4dd-48c7-423d-8a0f-9583ba83cd7b.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/ea9b7cc4-9118-4f8a-a37a-7c21f4b1a02a.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/2f899a03-6bf4-4380-b11e-c094e1037b3f.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/07ccf603-0094-4c73-bae1-e5f92c8cb05b.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Cottage",
+    "instant_booking": false,
+    "parking": false,
+    "pool": true,
+    "tv": true,
+    "kitchen": false,
+    "wifi": true,
+    "heating": true,
+    "hair_dryer": false,
+    "ac": true,
+    "pets": false,
+    "smoking": false,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "beds": 6,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      {
+        "id": 2,
+        "comment": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "id": 3,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 4,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 5,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 6,
+        "comment": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      },
+      {
+        "id": 7,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 8,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 9,
+        "comment": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      },
+      {
+        "id": 10,
+        "comment": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      },
+      {
+        "id": 11,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 12,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 13,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 14,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      },
+      {
+        "id": 16,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      { "id": 17, "comment": "Fusce consequat. Nulla nisl. Nunc nisl." },
+      {
+        "id": 18,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      }
+    ],
+    "no_of_guest": 3,
+    "gym": true,
+    "beach_front": false,
+    "river_side": true,
+    "description": "We are an honest service class who converted our loving grandparent's space to a guest house. The idea was not to be a money-making machine but to offer Nahil's peaceful ambiance in a way that can let free-fall your thousand thoughts",
+    "hostedby": "Kushagra"
+  },
+  {
+    "id": 49,
+    "name": "Spacious Suite+Kitchen in a quite City Bungalow",
+    "price": 11284,
+    "rating": 2.79,
+    "location": "Lucknow",
+    "location_nearby": "Uttar Pradesh",
+    "img": [
+      "https://a0.muscache.com/im/pictures/bcd3c8e7-37af-48f5-a7f8-401a34affa7c.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/0ccd0b11-dac1-4374-8c97-53b5a6195c06.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/4a54cf61-6c9a-4abb-84d4-8c1303620659.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/8676690a-476d-4e8d-adf8-0ac9b2d8c470.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/c3e6a870-7926-4e50-ba38-44ba9c9b3f7a.jpg?im_w=720"
+    ],
+    "cancel": true,
+    "typeofplace": "Cottage",
+    "instant_booking": false,
+    "parking": false,
+    "pool": false,
+    "tv": false,
+    "kitchen": true,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": true,
+    "ac": false,
+    "pets": true,
+    "smoking": true,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "beds": 7,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      {
+        "id": 2,
+        "comment": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "id": 3,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 4,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 5,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 6,
+        "comment": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      },
+      {
+        "id": 7,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 8,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 9,
+        "comment": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      },
+      {
+        "id": 10,
+        "comment": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      },
+      {
+        "id": 11,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 12,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 13,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 14,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      },
+      {
+        "id": 16,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      { "id": 17, "comment": "Fusce consequat. Nulla nisl. Nunc nisl." },
+      {
+        "id": 18,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": false,
+    "beach_front": true,
+    "river_side": false,
+    "description": "It is an open airy apartment,suitable for group of family members or friends.Fully furnished with all the amenities that you might think of at your home.Its more of a home away yet home.",
+    "hostedby": "Rahul"
+  },
+  {
+    "id": 50,
+    "name": "Quiet peaceful home in Gomtinagar",
+    "price": 12958,
+    "rating": 1.2,
+    "location": "Lucknow",
+    "location_nearby": "Uttar Pradesh",
+    "img": [
+      "https://a0.muscache.com/im/pictures/4248639e-50be-4368-a462-d13ada718128.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/cf5f3665-0e3d-4afb-a215-03bafb4dd338.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/06b9803c-ac11-4e2d-87a1-3da3b8cc9d27.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/fe54e332-f9f9-4ef9-96a4-f88101f9c3a2.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/f271024e-8137-405d-8800-586b90c5cd09.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/bcd3c8e7-37af-48f5-a7f8-401a34affa7c.jpg?im_w=960"
+    ],
+    "cancel": true,
+    "typeofplace": "Cottage",
+    "instant_booking": false,
+    "parking": true,
+    "pool": true,
+    "tv": true,
+    "kitchen": false,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": true,
+    "ac": true,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "beds": 8,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 2,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 3,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 4,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 5,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 6,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 7,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 8,
+        "comment": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+      },
+      {
+        "id": 9,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 10,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 11,
+        "comment": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
+      },
+      {
+        "id": 12,
+        "comment": "Sed ante. Vivamus tortor. Duis mattis egestas metus."
+      },
+      {
+        "id": 13,
+        "comment": "In congue. Etiam justo. Etiam pretium iaculis justo."
+      },
+      {
+        "id": 14,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": false,
+    "beach_front": true,
+    "river_side": true,
+    "description": "My house is well connected to the Airport (30 minutes) and Railway Station (40 Min). Bed rooms and common places are air conditioned. It has a well equipped kitchen. The place is quiet yet close to markets where most of the requirements are available. ",
+    "hostedby": "Nupur"
+  },
+  {
+    "id": 51,
+    "name": "Elite Homes 5, JB Nagar Andheri - East",
+    "price": 2234,
+    "rating": 4.78,
+    "location": "Mumbai",
+    "location_nearby": "Maharashtra",
+    "img": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-47963979/original/d38edf0b-1170-4156-b864-7f7a8396c509.jpeg?im_w=960",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-47963979/original/9c5390a8-dd76-4b4f-94c9-66d720de2211.png?im_w=720",
+      "https://a0.muscache.com/im/pictures/5d939e90-1046-4730-9392-bcd1855e5cea.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-47963979/original/6bec3403-7a61-4bff-b71e-1d33e3d9c392.png?im_w=720",
+      "https://a0.muscache.com/im/pictures/cf092dd8-b319-4d83-91d4-33dd1ab63451.jpg?im_w=720"
+    ],
+    "cancel": true,
+    "typeofplace": "Resort",
+    "instant_booking": true,
+    "parking": false,
+    "pool": true,
+    "tv": true,
+    "kitchen": true,
+    "wifi": false,
+    "heating": true,
+    "hair_dryer": true,
+    "ac": false,
+    "pets": false,
+    "smoking": false,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "beds": 4,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      {
+        "id": 2,
+        "comment": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "id": 3,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 4,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 5,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 6,
+        "comment": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      },
+      {
+        "id": 7,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 8,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 9,
+        "comment": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      },
+      {
+        "id": 10,
+        "comment": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      },
+      {
+        "id": 11,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 12,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 13,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 14,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      },
+      {
+        "id": 16,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      { "id": 17, "comment": "Fusce consequat. Nulla nisl. Nunc nisl." },
+      {
+        "id": 18,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": false,
+    "beach_front": true,
+    "river_side": false,
+    "description": "My house is well connected to the Airport (30 minutes) and Railway Station (40 Min). Bed rooms and common places are air conditioned. It has a well equipped kitchen. The place is quiet yet close to markets where most of the requirements are available. ",
+    "hostedby": "Archana"
+  },
+  {
+    "id": 52,
+    "name": "Cozy Rustic Hidden Gem of Mumbai @ Delphi Bungalow",
+    "price": 3567,
+    "rating": 3.41,
+    "location": "Mumbai",
+    "location_nearby": "Maharashtra",
+    "img": [
+      "https://a0.muscache.com/im/pictures/78cfc605-b867-412c-8807-056cee0bc91d.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/19b639d8-9ddb-4ecd-8b4e-5a014409f8a3.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/1c6d5621-aa2c-45e1-b289-ed2121fd6c6c.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/54f88a92-f33a-48f1-9324-e0dd395f731b.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/8a14336e-22fb-4eb2-a40d-6d87fc122636.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/19b639d8-9ddb-4ecd-8b4e-5a014409f8a3.jpg?im_w=720"
+    ],
+    "cancel": true,
+    "typeofplace": "Resort",
+    "instant_booking": false,
+    "parking": true,
+    "pool": false,
+    "tv": false,
+    "kitchen": true,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": false,
+    "pets": true,
+    "smoking": true,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "beds": 10,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      {
+        "id": 2,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 3,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 4,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 5,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 6,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 7,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 8,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 9,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 10,
+        "comment": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": true,
+    "beach_front": false,
+    "river_side": false,
+    "description": "A cozy room in a bungalow well equipped with all essentials and amenities. A view of the garden, space designed to make you just feel at home whilst on your busy trip. Ideal for single travelers / safe housing / long stays.",
+    "hostedby": "Celvin"
+  },
+  {
+    "id": 53,
+    "name": "Vintage quaint bungalow next to the National Park.",
+    "price": 14025,
+    "rating": 3.14,
+    "location": "Mumbai",
+    "location_nearby": "Maharashtra",
+    "img": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-33845378/original/31a9fcbd-a5ce-405b-8235-3c31b53d20b5.jpeg?im_w=960",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-33845378/original/136c4b56-d227-4e54-9cdc-f18a0b5228bb.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-33845378/original/23a0f170-e4b6-4bb7-b0ab-c6650b3c6674.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-33845378/original/47bcecbc-8696-405c-9d28-1f7271f5c664.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-33845378/original/4bd57410-434a-442e-9317-6ca906ad20f3.jpeg?im_w=720"
+    ],
+    "cancel": true,
+    "typeofplace": "Resort",
+    "instant_booking": true,
+    "parking": false,
+    "pool": false,
+    "tv": false,
+    "kitchen": false,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": false,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 2,
+    "bathrooms": 6,
+    "beds": 3,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      {
+        "id": 2,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 3,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 4,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 5,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 6,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 7,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 8,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 9,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 10,
+        "comment": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": false,
+    "beach_front": false,
+    "river_side": true,
+    "description": "A quaint Bunglow nestled next to the National Park. The host is a retired Sailor with tales to share along with his beautiful bungalow. Perfect for Couples, Business visits or just someone who wants to wake up by the sounds of chirping birds and squirrels.",
+    "hostedby": "Emmy"
+  },
+  {
+    "id": 54,
+    "name": "Premium Sanitized Service Apt For Families/Couples",
+    "price": 13293,
+    "rating": 1.95,
+    "location": "Mumbai",
+    "location_nearby": "Maharashtra",
+    "img": [
+      "https://a0.muscache.com/im/pictures/5c3dc04b-f378-412e-b2cf-e0975573aa53.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/b55ab6b6-8037-4d4a-a83a-1f88bf0b5d23.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/a4217233-eb9a-4cba-a782-4002ad75663c.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/8ed4107d-78e8-476b-b7f1-ef0fc9473367.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/9489ad73-4aef-49f6-8e17-1dd73eaf57f1.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Resort",
+    "instant_booking": false,
+    "parking": false,
+    "pool": true,
+    "tv": false,
+    "kitchen": false,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": true,
+    "ac": true,
+    "pets": false,
+    "smoking": true,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "beds": 7,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 2,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 3,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 4,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 5,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 6,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 7,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 8,
+        "comment": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+      },
+      {
+        "id": 9,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 10,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 11,
+        "comment": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
+      },
+      {
+        "id": 12,
+        "comment": "Sed ante. Vivamus tortor. Duis mattis egestas metus."
+      },
+      {
+        "id": 13,
+        "comment": "In congue. Etiam justo. Etiam pretium iaculis justo."
+      },
+      {
+        "id": 14,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": true,
+    "beach_front": true,
+    "river_side": true,
+    "description": "We are an honest service class who converted our loving grandparent's space to a guest house. The idea was not to be a money-making machine but to offer Nahil's peaceful ambiance in a way that can let free-fall your thousand thoughts",
+    "hostedby": "Ranjan"
+  },
+  {
+    "id": 55,
+    "name": "Mixed Dorm in Cohostel, Bandra West",
+    "price": 10874,
+    "rating": 4.62,
+    "location": "Mumbai",
+    "location_nearby": "Maharashtra",
+    "img": [
+      "https://a0.muscache.com/im/pictures/0a150f60-41a0-4b6d-85ec-0176c5e68edd.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/395be46e-60c3-46fb-b5ed-ed07d4829c51.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/0e2e4ce7-948c-41f9-9989-912fc8d157a1.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/86b7772a-13f2-4f55-868b-f11295130501.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/d9dd4b21-46bf-4654-9e70-3b508b85b1cd.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Resort",
+    "instant_booking": true,
+    "parking": false,
+    "pool": true,
+    "tv": false,
+    "kitchen": false,
+    "wifi": true,
+    "heating": true,
+    "hair_dryer": true,
+    "ac": true,
+    "pets": false,
+    "smoking": false,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "beds": 8,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      {
+        "id": 2,
+        "comment": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "id": 3,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 4,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 5,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 6,
+        "comment": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      },
+      {
+        "id": 7,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 8,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 9,
+        "comment": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      },
+      {
+        "id": 10,
+        "comment": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      },
+      {
+        "id": 11,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 12,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 13,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 14,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      },
+      {
+        "id": 16,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      { "id": 17, "comment": "Fusce consequat. Nulla nisl. Nunc nisl." },
+      {
+        "id": 18,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": false,
+    "beach_front": false,
+    "river_side": false,
+    "description": "Each of the thoughtfully designed dorms have a capacity of 6 and an attached washroom. The cozy bunks are air-conditioned & equipped with a  mattress with premium linen, reading light, 2 sockets & Resort locker.",
+    "hostedby": "Sameer"
+  },
+  {
+    "id": 56,
+    "name": "STAY/WORKATION Home Awy frm Hme(HighEnd)COVIDFREE",
+    "price": 12256,
+    "rating": 1.06,
+    "location": "Mumbai",
+    "location_nearby": "Maharashtra",
+    "img": [
+      "https://a0.muscache.com/im/pictures/2078f29b-4caf-412d-8e42-b424a4e86177.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/cf5f3665-0e3d-4afb-a215-03bafb4dd338.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/df9a2d81-e01f-4b65-93b5-a0097dfcb2c6.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/f271024e-8137-405d-8800-586b90c5cd09.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/f71c33e1-846d-4d92-8333-6909f018bad7.jpg?im_w=720"
+    ],
+    "cancel": true,
+    "typeofplace": "Resort",
+    "instant_booking": false,
+    "parking": false,
+    "pool": true,
+    "tv": true,
+    "kitchen": true,
+    "wifi": true,
+    "heating": true,
+    "hair_dryer": false,
+    "ac": true,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "beds": 4,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 2,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      },
+      {
+        "id": 3,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      },
+      {
+        "id": 4,
+        "comment": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      },
+      {
+        "id": 5,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": false,
+    "beach_front": true,
+    "river_side": false,
+    "description": "An opulent bedroom in every sense, where a working professional can ease out after a days hard work in the corporate zones near this placedesigned to suit select few who can afford luxury living.",
+    "hostedby": "Sarita"
+  },
+  {
+    "id": 57,
+    "name": "5 Star Luxury in the Heart of Bandra",
+    "price": 14206,
+    "rating": 4.53,
+    "location": "Mumbai",
+    "location_nearby": "Maharashtra",
+    "img": [
+      "https://a0.muscache.com/im/pictures/24ab9162-00c7-4b44-98b0-c175241ade7e.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/a43efd6d-91e3-4aeb-a18a-e2a85f5b7ee7.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/3cc07259-6ba7-4003-84e7-bd827ae64937.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-33845378/original/31a9fcbd-a5ce-405b-8235-3c31b53d20b5.jpeg?im_w=960",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-33845378/original/136c4b56-d227-4e54-9cdc-f18a0b5228bb.jpeg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": true,
+    "parking": true,
+    "pool": false,
+    "tv": true,
+    "kitchen": true,
+    "wifi": true,
+    "heating": false,
+    "hair_dryer": true,
+    "ac": false,
+    "pets": false,
+    "smoking": false,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "beds": 2,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 2,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      },
+      {
+        "id": 3,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      },
+      {
+        "id": 4,
+        "comment": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      },
+      {
+        "id": 5,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": false,
+    "beach_front": false,
+    "river_side": false,
+    "description": "Centrally located in one of the prime localities of Bandra West, this plush yet cozy studio apartment has everything to make your stay comfortable & memorable - a relaxed Sitting area, a Queen size Bed, a large Wardrobe, a fully equipped Kitchenette & a modern Toilet cum Bathroom, all combined with free WiFi & Cable TV.",
+    "hostedby": "Michael"
+  },
+  {
+    "id": 58,
+    "name": "Nice Place to stay,The Pacific Hotel, Andheri east",
+    "price": 3013,
+    "rating": 2.06,
+    "location": "Mumbai",
+    "location_nearby": "Maharashtra",
+    "img": [
+      "https://a0.muscache.com/im/pictures/5dfccd58-b5b8-4f93-81fb-aac3005ac96e.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/4fd172b8-e6cf-4982-a707-cb77003c1c8f.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/280edb0a-681a-4895-8cca-38117b6edbfe.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/2bf05190-8fb8-47c8-a7b5-6da03da1adef.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-47963979/original/9c5390a8-dd76-4b4f-94c9-66d720de2211.png?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": true,
+    "parking": false,
+    "pool": false,
+    "tv": false,
+    "kitchen": false,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": true,
+    "ac": true,
+    "pets": false,
+    "smoking": false,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "beds": 7,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 2,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 3,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 4,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 5,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 6,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 7,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 8,
+        "comment": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+      },
+      {
+        "id": 9,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 10,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 11,
+        "comment": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
+      },
+      {
+        "id": 12,
+        "comment": "Sed ante. Vivamus tortor. Duis mattis egestas metus."
+      },
+      {
+        "id": 13,
+        "comment": "In congue. Etiam justo. Etiam pretium iaculis justo."
+      },
+      {
+        "id": 14,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": false,
+    "beach_front": true,
+    "river_side": false,
+    "description": "Hotel The Pacific is situated in Andheri east .The Metro Station is 550 m, 2.5 km from T2 terminal .The eye-pleasing rooms at Hotel The Pacific have wooden flooring, contemporary chair, and floor-to-ceiling windows with full-length curtain.Flat-screen TV, air conditioning and en suite bathroom with requisite toiletries .",
+    "hostedby": "Bhaskar"
+  },
+  {
+    "id": 59,
+    "name": "Modern 2 Bedroom with Atttached Study & Balconies",
+    "price": 9405,
+    "rating": 2.48,
+    "location": "Mumbai",
+    "location_nearby": "Maharashtra",
+    "img": [
+      "https://a0.muscache.com/im/pictures/44594322-7e7d-43bd-a535-11b7e81f0d3a.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/57f121f9-1e6e-4819-9acc-6e6583eafd3f.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/84d0a77a-c7b4-40cd-9ff1-c3425839dd8d.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/22e0ce61-d6b0-40cc-a7b9-95bf491e1d3a.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/0c42aba6-7d2c-4523-9b07-b983f1854f71.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": false,
+    "parking": false,
+    "pool": false,
+    "tv": true,
+    "kitchen": true,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": false,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "beds": 7,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      {
+        "id": 2,
+        "comment": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "id": 3,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 4,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 5,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 6,
+        "comment": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      },
+      {
+        "id": 7,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 8,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 9,
+        "comment": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      },
+      {
+        "id": 10,
+        "comment": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      },
+      {
+        "id": 11,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 12,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 13,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 14,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      },
+      {
+        "id": 16,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      { "id": 17, "comment": "Fusce consequat. Nulla nisl. Nunc nisl." },
+      {
+        "id": 18,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": false,
+    "beach_front": true,
+    "river_side": false,
+    "description": "The space is a two bedroom apartment on the third floor of a 6 stores building. The building has a security guard at all times & is under CCTV surveillance.",
+    "hostedby": "Brijesh"
+  },
+  {
+    "id": 60,
+    "name": "MAKING EVERY STAY BRILLIANTLY SIMPLE",
+    "price": 11509,
+    "rating": 3.1,
+    "location": "Mumbai",
+    "location_nearby": "Maharashtra",
+    "img": [
+      "https://a0.muscache.com/im/pictures/6ed45e97-3c78-4839-942f-73a1ad14c1bc.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/3c98e9fe-108a-4687-904a-c8aeae37888d.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/123134e8-211c-4d2f-9053-c7d7e48a697e.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/e93ea4ef-18a7-404f-be61-9fb4b6537743.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/5e944d30-5d07-442c-88c8-07579a317196.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": false,
+    "parking": false,
+    "pool": false,
+    "tv": false,
+    "kitchen": true,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": true,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 3,
+    "bathrooms": 5,
+    "beds": 4,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 2,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      },
+      {
+        "id": 3,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      },
+      {
+        "id": 4,
+        "comment": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      },
+      {
+        "id": 5,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": false,
+    "beach_front": true,
+    "river_side": true,
+    "description": "A cozy room in a bungalow well equipped with all essentials and amenities. A view of the garden, space designed to make you just feel at home whilst on your busy trip. Ideal for single travelers / safe housing / long stays.",
+    "hostedby": "Sarita"
+  },
+  {
+    "id": 61,
+    "name": "SANITIZED LAKESIDE HARMONY",
+    "price": 4830,
+    "rating": 2.16,
+    "location": "Kolkata",
+    "location_nearby": "West Bengal",
+    "img": [
+      "https://a0.muscache.com/im/pictures/be6730cd-929b-4bdf-be3b-b24237c47cc7.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/06b9803c-ac11-4e2d-87a1-3da3b8cc9d27.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/0c42aba6-7d2c-4523-9b07-b983f1854f71.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/0ccd0b11-dac1-4374-8c97-53b5a6195c06.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/0e2e4ce7-948c-41f9-9989-912fc8d157a1.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": true,
+    "parking": false,
+    "pool": true,
+    "tv": false,
+    "kitchen": false,
+    "wifi": true,
+    "heating": true,
+    "hair_dryer": false,
+    "ac": true,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "beds": 8,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      {
+        "id": 2,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 3,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 4,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 5,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 6,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 7,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 8,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 9,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 10,
+        "comment": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": true,
+    "beach_front": true,
+    "river_side": false,
+    "description": "A cozy room in a bungalow well equipped with all essentials and amenities. A view of the garden, space designed to make you just feel at home whilst on your busy trip. Ideal for single travelers / safe housing / long stays.",
+    "hostedby": "Brijesh"
+  },
+  {
+    "id": 62,
+    "name": "The 3A: The Home and the World | Hindustan Road",
+    "price": 13154,
+    "rating": 3.32,
+    "location": "Kolkata",
+    "location_nearby": "West Bengal",
+    "img": [
+      "https://a0.muscache.com/im/pictures/e980ae68-bf09-407a-b36a-d9684ebab133.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/eaa517ea-ab2e-4620-82a8-d0285d88f6fa.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/c6fdfdce-c2ec-43ee-b6a3-6b2c4fca3865.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/21d40301-9af5-456a-a589-65c943c4cdbd.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/123134e8-211c-4d2f-9053-c7d7e48a697e.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": false,
+    "parking": true,
+    "pool": false,
+    "tv": false,
+    "kitchen": false,
+    "wifi": true,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": true,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 3,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 2,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      },
+      {
+        "id": 3,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      },
+      {
+        "id": 4,
+        "comment": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      },
+      {
+        "id": 5,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": false,
+    "beach_front": true,
+    "river_side": true,
+    "description": "Independent 2nd floor one Bed Room spacious Studio + an extra room, kitchen just 5 minute drive from Airport. The place is comfortably located at Krishna Nagar near to Kanpur Road",
+    "hostedby": "Debashish"
+  },
+  {
+    "id": 63,
+    "name": "Sabitri- One bedroom & breakfast- Kolkata",
+    "price": 12786,
+    "rating": 2.72,
+    "location": "Kolkata",
+    "location_nearby": "West Bengal",
+    "img": [
+      "https://a0.muscache.com/im/pictures/f2036648-8834-4cd1-9202-2e82fb92bea9.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/46e01aa9-2670-41e9-a739-a01df63d3314.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/45d1f941-c773-4648-873f-162f9bce22a3.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/cd85369a-16d9-4c1e-8cba-f22288de3d15.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/cd85369a-16d9-4c1e-8cba-f22288de3d15.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/9489ad73-4aef-49f6-8e17-1dd73eaf57f1.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Villa",
+    "instant_booking": true,
+    "parking": false,
+    "pool": false,
+    "tv": false,
+    "kitchen": true,
+    "wifi": true,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": false,
+    "pets": false,
+    "smoking": true,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "beds": 10,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      {
+        "id": 2,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 3,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 4,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 5,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 6,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 7,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 8,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 9,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 10,
+        "comment": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": true,
+    "beach_front": true,
+    "river_side": true,
+    "description": "A cozy room in a bungalow well equipped with all essentials and amenities. A view of the garden, space designed to make you just feel at home whilst on your busy trip. Ideal for single travelers / safe housing / long stays.",
+    "hostedby": "Indrani"
+  },
+  {
+    "id": 64,
+    "name": "𝓙𝓸𝓮𝔂’𝓼 𝓝𝓮𝓼𝓽 Boutique Room in SALTLAKE near IT Hub",
+    "price": 5222,
+    "rating": 4.85,
+    "location": "Kolkata",
+    "location_nearby": "West Bengal",
+    "img": [
+      "https://a0.muscache.com/im/pictures/9489ad73-4aef-49f6-8e17-1dd73eaf57f1.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/a43efd6d-91e3-4aeb-a18a-e2a85f5b7ee7.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/aba321fc-c4ac-4621-92d5-2f70af775b0d.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/be6730cd-929b-4bdf-be3b-b24237c47cc7.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/cd85369a-16d9-4c1e-8cba-f22288de3d15.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Villa",
+    "instant_booking": true,
+    "parking": false,
+    "pool": true,
+    "tv": true,
+    "kitchen": false,
+    "wifi": true,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": false,
+    "pets": true,
+    "smoking": true,
+    "bedrooms": 3,
+    "bathrooms": 6,
+    "beds": 9,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      {
+        "id": 2,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 3,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 4,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 5,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 6,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 7,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 8,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 9,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 10,
+        "comment": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": true,
+    "beach_front": true,
+    "river_side": false,
+    "description": "A quaint Bunglow nestled next to the National Park. The host is a retired Sailor with tales to share along with his beautiful bungalow. Perfect for Couples, Business visits or just someone who wants to wake up by the sounds of chirping birds and squirrels.",
+    "hostedby": "Brijesh"
+  },
+  {
+    "id": 65,
+    "name": "Entire Suite with 1 King & 1 Single Bed at NewTown",
+    "price": 13759,
+    "rating": 3.68,
+    "location": "Kolkata",
+    "location_nearby": "West Bengal",
+    "img": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-28269004/original/0654d862-7bb3-4ea4-aa2a-0a0e0aa7e6d0.jpeg?im_w=960",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-28269004/original/6ef7720d-2c19-4bc7-8563-2ffc8faca20f.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-28269004/original/33810518-4b3d-4691-8928-9d21851e408f.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-28269004/original/ff5b6f12-31af-434a-9b9e-51cfc7fcfe9b.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-28269004/original/84e19f1e-f2b2-4b00-b7e8-c9d68a76f685.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-28269004/original/6ef7720d-2c19-4bc7-8563-2ffc8faca20f.jpeg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Villa",
+    "instant_booking": false,
+    "parking": true,
+    "pool": true,
+    "tv": true,
+    "kitchen": true,
+    "wifi": true,
+    "heating": true,
+    "hair_dryer": false,
+    "ac": true,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "beds": 2,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 2,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      },
+      {
+        "id": 3,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      },
+      {
+        "id": 4,
+        "comment": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      },
+      {
+        "id": 5,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": false,
+    "beach_front": false,
+    "river_side": false,
+    "description": "Built on a 14K Sft landscaped plot, this bungalow flr offers 3 lavish suites, tasteful living rooms and a modern kitchen.The front garden, landscaped terrace, veranda and living area are perfect place to unwind & socialize",
+    "hostedby": "Debashish"
+  },
+  {
+    "id": 66,
+    "name": "The 6ix @ Camac street! ",
+    "price": 9156,
+    "rating": 3.41,
+    "location": "Kolkata",
+    "location_nearby": "West Bengal",
+    "img": [
+      "https://a0.muscache.com/im/pictures/8ea1bfbb-c74c-44e9-8bd3-fc219fea5dde.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/73dc7d90-0342-429c-aca7-503cde6efa12.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/cf092dd8-b319-4d83-91d4-33dd1ab63451.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/cf092dd8-b319-4d83-91d4-33dd1ab63451.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/df9a2d81-e01f-4b65-93b5-a0097dfcb2c6.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Villa",
+    "instant_booking": true,
+    "parking": false,
+    "pool": false,
+    "tv": false,
+    "kitchen": false,
+    "wifi": false,
+    "heating": true,
+    "hair_dryer": true,
+    "ac": true,
+    "pets": false,
+    "smoking": false,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "beds": 9,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      {
+        "id": 2,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 3,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 4,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 5,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 6,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 7,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 8,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 9,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 10,
+        "comment": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": true,
+    "beach_front": false,
+    "river_side": true,
+    "description": "Independent 2nd floor one Bed Room spacious Studio + an extra room, kitchen just 5 minute drive from Airport. The place is comfortably located at Krishna Nagar near to Road",
+    "hostedby": "Deeparchi"
+  },
+  {
+    "id": 67,
+    "name": "Casa Bonita-I, hosted by d most travelled couples",
+    "price": 12736,
+    "rating": 1.44,
+    "location": "Kolkata",
+    "location_nearby": "West Bengal",
+    "img": [
+      "https://a0.muscache.com/im/pictures/2df12126-3c97-43ba-9fc3-66ff51f7f79d.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/e93ea4ef-18a7-404f-be61-9fb4b6537743.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/e980ae68-bf09-407a-b36a-d9684ebab133.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/ea9b7cc4-9118-4f8a-a37a-7c21f4b1a02a.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/ed9170b9-db12-4df1-8c4d-0588eae680f4.jpg?im_w=720"
+    ],
+    "cancel": true,
+    "typeofplace": "Villa",
+    "instant_booking": false,
+    "parking": false,
+    "pool": false,
+    "tv": false,
+    "kitchen": true,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": true,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "beds": 7,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 2,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 3,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 4,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 5,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 6,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 7,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 8,
+        "comment": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+      },
+      {
+        "id": 9,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 10,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 11,
+        "comment": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
+      },
+      {
+        "id": 12,
+        "comment": "Sed ante. Vivamus tortor. Duis mattis egestas metus."
+      },
+      {
+        "id": 13,
+        "comment": "In congue. Etiam justo. Etiam pretium iaculis justo."
+      },
+      {
+        "id": 14,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": false,
+    "beach_front": true,
+    "river_side": false,
+    "description": "It is an open airy apartment,suitable for group of family members or friends.Fully furnished with all the amenities that you might think of at your home.Its more of a home away yet home.",
+    "hostedby": "Kushagra"
+  },
+  {
+    "id": 68,
+    "name": "Auro - One bedroom",
+    "price": 5576,
+    "rating": 1.1,
+    "location": "Kolkata",
+    "location_nearby": "West Bengal",
+    "img": [
+      "https://a0.muscache.com/im/pictures/8991d59e-6ef4-4019-a51e-29090ec894e6.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/348d3399-2d51-47a5-baa7-614a6bc836b8.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/63f02ffe-2ea7-46b8-b6ed-b4dbec4bec6c.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/b0ebbe6d-10eb-4146-b476-1873cb3b9db3.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/04c861db-0b80-407e-ad76-75914629efe6.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/f2036648-8834-4cd1-9202-2e82fb92bea9.jpg?im_w=960"
+    ],
+    "cancel": true,
+    "typeofplace": "Villa",
+    "instant_booking": true,
+    "parking": false,
+    "pool": false,
+    "tv": true,
+    "kitchen": false,
+    "wifi": true,
+    "heating": true,
+    "hair_dryer": true,
+    "ac": false,
+    "pets": false,
+    "smoking": false,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "beds": 5,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      {
+        "id": 2,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 3,
+        "comment": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "id": 4,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 5,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 6,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 7,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 8,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 9,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 10,
+        "comment": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": true,
+    "beach_front": true,
+    "river_side": false,
+    "description": "A cozy room in a bungalow well equipped with all essentials and amenities. A view of the garden, space designed to make you just feel at home whilst on your busy trip. Ideal for single travelers / safe housing / long stays.",
+    "hostedby": "Nitin"
+  },
+  {
+    "id": 69,
+    "name": "New Executive Room",
+    "price": 12547,
+    "rating": 1.36,
+    "location": "Kolkata",
+    "location_nearby": "West Bengal",
+    "img": [
+      "https://a0.muscache.com/im/pictures/46e8d340-533a-4ddb-b08c-797585e5635a.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/f2036648-8834-4cd1-9202-2e82fb92bea9.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/f271024e-8137-405d-8800-586b90c5cd09.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/f4009c9e-1fc2-4340-b848-294ab6308a72.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/f71c33e1-846d-4d92-8333-6909f018bad7.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Cottage",
+    "instant_booking": true,
+    "parking": false,
+    "pool": false,
+    "tv": true,
+    "kitchen": true,
+    "wifi": false,
+    "heating": true,
+    "hair_dryer": true,
+    "ac": true,
+    "pets": true,
+    "smoking": true,
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "beds": 9,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 2,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      },
+      {
+        "id": 3,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      },
+      {
+        "id": 4,
+        "comment": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      },
+      {
+        "id": 5,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": false,
+    "beach_front": false,
+    "river_side": false,
+    "description": "My house is well connected to the Airport (30 minutes) and Railway Station (40 Min). Bed rooms and common places are air conditioned. It has a well equipped kitchen. The place is quiet yet close to markets where most of the requirements are available. ",
+    "hostedby": "Rahul"
+  },
+  {
+    "id": 70,
+    "name": "PRANIK 4 COSY HOME STAY",
+    "price": 2845,
+    "rating": 1.81,
+    "location": "Kolkata",
+    "location_nearby": "West Bengal",
+    "img": [
+      "https://a0.muscache.com/im/pictures/46e8d340-533a-4ddb-b08c-797585e5635a.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/f2036648-8834-4cd1-9202-2e82fb92bea9.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/f271024e-8137-405d-8800-586b90c5cd09.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/f4009c9e-1fc2-4340-b848-294ab6308a72.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/f71c33e1-846d-4d92-8333-6909f018bad7.jpg?im_w=720"
+    ],
+    "cancel": true,
+    "typeofplace": "Cottage",
+    "instant_booking": true,
+    "parking": true,
+    "pool": true,
+    "tv": true,
+    "kitchen": false,
+    "wifi": true,
+    "heating": true,
+    "hair_dryer": true,
+    "ac": false,
+    "pets": true,
+    "smoking": true,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "beds": 2,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 2,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      },
+      {
+        "id": 3,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      },
+      {
+        "id": 4,
+        "comment": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      },
+      {
+        "id": 5,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": true,
+    "beach_front": false,
+    "river_side": true,
+    "description": "My house is well connected to the Airport (30 minutes) and Railway Station (40 Min). Bed rooms and common places are air conditioned. It has a well equipped kitchen. The place is quiet yet close to markets where most of the requirements are available. ",
+    "hostedby": "Sameer"
+  },
+  {
+    "id": 71,
+    "name": "Artist's Abode",
+    "price": 14275,
+    "rating": 4.36,
+    "location": "Chandigarh",
+    "location_nearby": "Punjab",
+    "img": [
+      "https://a0.muscache.com/im/pictures/1c00b5ff-ef46-4cb0-809f-0bf315798fdd.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/89c3336b-1f27-4b92-bdb9-6a6fd969fe54.jpg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-28269004/original/0654d862-7bb3-4ea4-aa2a-0a0e0aa7e6d0.jpeg?im_w=960",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-28269004/original/6ef7720d-2c19-4bc7-8563-2ffc8faca20f.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-33845378/original/31a9fcbd-a5ce-405b-8235-3c31b53d20b5.jpeg?im_w=960"
+    ],
+    "cancel": true,
+    "typeofplace": "Cottage",
+    "instant_booking": true,
+    "parking": false,
+    "pool": false,
+    "tv": true,
+    "kitchen": true,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": true,
+    "ac": false,
+    "pets": false,
+    "smoking": true,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 6,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 2,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 3,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 4,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 5,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 6,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 7,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 8,
+        "comment": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+      },
+      {
+        "id": 9,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 10,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 11,
+        "comment": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
+      },
+      {
+        "id": 12,
+        "comment": "Sed ante. Vivamus tortor. Duis mattis egestas metus."
+      },
+      {
+        "id": 13,
+        "comment": "In congue. Etiam justo. Etiam pretium iaculis justo."
+      },
+      {
+        "id": 14,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": true,
+    "beach_front": false,
+    "river_side": false,
+    "description": "Artist's abode. Modern , smart , comfortable home away from home . Spacious , well lighted , airy . We provide a friendly , family oriented environment without encroaching on your personal space. Our goal is to make your stay as comfortable as possible. A homely environment away from home.",
+    "hostedby": "Amita"
+  },
+  {
+    "id": 72,
+    "name": "Jashan",
+    "price": 8033,
+    "rating": 2.92,
+    "location": "Chandigarh",
+    "location_nearby": "Punjab",
+    "img": [
+      "https://a0.muscache.com/im/pictures/e2df15dc-7f88-4f2a-9a0a-52fb8881d655.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-33845378/original/23a0f170-e4b6-4bb7-b0ab-c6650b3c6674.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-33845378/original/47bcecbc-8696-405c-9d28-1f7271f5c664.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-47963979/original/d38edf0b-1170-4156-b864-7f7a8396c509.jpeg?im_w=960",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-47963979/original/9c5390a8-dd76-4b4f-94c9-66d720de2211.png?im_w=720"
+    ],
+    "cancel": true,
+    "typeofplace": "Cottage",
+    "instant_booking": true,
+    "parking": false,
+    "pool": true,
+    "tv": true,
+    "kitchen": true,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": false,
+    "pets": false,
+    "smoking": false,
+    "bedrooms": 2,
+    "bathrooms": 6,
+    "beds": 2,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 2,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 3,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 4,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 5,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 6,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 7,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 8,
+        "comment": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+      },
+      {
+        "id": 9,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 10,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 11,
+        "comment": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
+      },
+      {
+        "id": 12,
+        "comment": "Sed ante. Vivamus tortor. Duis mattis egestas metus."
+      },
+      {
+        "id": 13,
+        "comment": "In congue. Etiam justo. Etiam pretium iaculis justo."
+      },
+      {
+        "id": 14,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": true,
+    "beach_front": true,
+    "river_side": true,
+    "description": "My house is well connected to the Airport (30 minutes) and Railway Station (40 Min). Bed rooms and common places are air conditioned. It has a well equipped kitchen. The place is quiet yet close to markets where most of the requirements are available. ",
+    "hostedby": "Naman"
+  },
+  {
+    "id": 73,
+    "name": "Hpmestay",
+    "price": 11586,
+    "rating": 4.51,
+    "location": "Chandigarh",
+    "location_nearby": "Punjab",
+    "img": [
+      "https://a0.muscache.com/im/pictures/3f7440f2-8a9e-4e30-8ff9-a16d307a4535.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/028124b0-f81e-4e78-a326-a9e77cb8604c.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/028124b0-f81e-4e78-a326-a9e77cb8604c.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/04c861db-0b80-407e-ad76-75914629efe6.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/06b9803c-ac11-4e2d-87a1-3da3b8cc9d27.jpg?im_w=720"
+    ],
+    "cancel": true,
+    "typeofplace": "Cottage",
+    "instant_booking": true,
+    "parking": true,
+    "pool": false,
+    "tv": true,
+    "kitchen": true,
+    "wifi": true,
+    "heating": true,
+    "hair_dryer": true,
+    "ac": false,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "beds": 8,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 2,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 3,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 4,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 5,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 6,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 7,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 8,
+        "comment": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+      },
+      {
+        "id": 9,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 10,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 11,
+        "comment": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
+      },
+      {
+        "id": 12,
+        "comment": "Sed ante. Vivamus tortor. Duis mattis egestas metus."
+      },
+      {
+        "id": 13,
+        "comment": "In congue. Etiam justo. Etiam pretium iaculis justo."
+      },
+      {
+        "id": 14,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": true,
+    "beach_front": true,
+    "river_side": false,
+    "description": "Built on a 14K Sft landscaped plot, this bungalow flr offers 3 lavish suites, tasteful living rooms and a modern kitchen.The front garden, landscaped terrace, veranda and living area are perfect place to unwind & socialize",
+    "hostedby": "Surinder"
+  },
+  {
+    "id": 74,
+    "name": "Home Feeling",
+    "price": 10685,
+    "rating": 1.84,
+    "location": "Chandigarh",
+    "location_nearby": "Punjab",
+    "img": [
+      "https://a0.muscache.com/im/pictures/8f8e7c93-1634-4d05-8dc7-d76ef4bb38a2.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/06b9803c-ac11-4e2d-87a1-3da3b8cc9d27.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/07ccf603-0094-4c73-bae1-e5f92c8cb05b.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/0a150f60-41a0-4b6d-85ec-0176c5e68edd.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/0c42aba6-7d2c-4523-9b07-b983f1854f71.jpg?im_w=720"
+    ],
+    "cancel": true,
+    "typeofplace": "Villa",
+    "instant_booking": false,
+    "parking": true,
+    "pool": false,
+    "tv": true,
+    "kitchen": true,
+    "wifi": false,
+    "heating": false,
+    "hair_dryer": true,
+    "ac": false,
+    "pets": false,
+    "smoking": true,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "beds": 2,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      {
+        "id": 2,
+        "comment": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "id": 3,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 4,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 5,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 6,
+        "comment": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      },
+      {
+        "id": 7,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 8,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 9,
+        "comment": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      },
+      {
+        "id": 10,
+        "comment": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      },
+      {
+        "id": 11,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 12,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 13,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 14,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      },
+      {
+        "id": 16,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      { "id": 17, "comment": "Fusce consequat. Nulla nisl. Nunc nisl." },
+      {
+        "id": 18,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": true,
+    "beach_front": false,
+    "river_side": true,
+    "description": "Independent 2nd floor one Bed Room spacious Studio + an extra room, kitchen just 5 minute drive from Airport. The place is comfortably located at Krishna Nagar near to Road",
+    "hostedby": "Sarita"
+  },
+  {
+    "id": 75,
+    "name": "Palm City",
+    "price": 10451,
+    "rating": 4.18,
+    "location": "Chandigarh",
+    "location_nearby": "Punjab",
+    "img": [
+      "https://a0.muscache.com/im/pictures/a159ca6f-6253-4a1c-b15d-e66dee9c4432.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/140d1e23-5b89-4800-84e8-68c4cc060b9e.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/22a1e4dd-48c7-423d-8a0f-9583ba83cd7b.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/2df12126-3c97-43ba-9fc3-66ff51f7f79d.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/395be46e-60c3-46fb-b5ed-ed07d4829c51.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": true,
+    "parking": false,
+    "pool": true,
+    "tv": false,
+    "kitchen": true,
+    "wifi": true,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": true,
+    "pets": true,
+    "smoking": true,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "beds": 4,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      {
+        "id": 2,
+        "comment": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "id": 3,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 4,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 5,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 6,
+        "comment": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      },
+      {
+        "id": 7,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 8,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 9,
+        "comment": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      },
+      {
+        "id": 10,
+        "comment": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      },
+      {
+        "id": 11,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 12,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 13,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 14,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      },
+      {
+        "id": 16,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      { "id": 17, "comment": "Fusce consequat. Nulla nisl. Nunc nisl." },
+      {
+        "id": 18,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      }
+    ],
+    "no_of_guest": 5,
+    "gym": true,
+    "beach_front": false,
+    "river_side": true,
+    "description": "A quaint Bunglow nestled next to the National Park. The host is a retired Sailor with tales to share along with his beautiful bungalow. Perfect for Couples, Business visits or just someone who wants to wake up by the sounds of chirping birds and squirrels.",
+    "hostedby": "Archana"
+  },
+  {
+    "id": 76,
+    "name": "Artist's Abode 1",
+    "price": 9243,
+    "rating": 2.39,
+    "location": "Chandigarh",
+    "location_nearby": "Punjab",
+    "img": [
+      "https://a0.muscache.com/im/pictures/395be46e-60c3-46fb-b5ed-ed07d4829c51.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/395be46e-60c3-46fb-b5ed-ed07d4829c51.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/3c98e9fe-108a-4687-904a-c8aeae37888d.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/3f7440f2-8a9e-4e30-8ff9-a16d307a4535.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/45d1f941-c773-4648-873f-162f9bce22a3.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": false,
+    "parking": true,
+    "pool": true,
+    "tv": true,
+    "kitchen": false,
+    "wifi": true,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": false,
+    "pets": false,
+    "smoking": false,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "beds": 4,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      {
+        "id": 2,
+        "comment": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "id": 3,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 4,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 5,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 6,
+        "comment": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      },
+      {
+        "id": 7,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 8,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 9,
+        "comment": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      },
+      {
+        "id": 10,
+        "comment": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      },
+      {
+        "id": 11,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 12,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 13,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 14,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      },
+      {
+        "id": 16,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      { "id": 17, "comment": "Fusce consequat. Nulla nisl. Nunc nisl." },
+      {
+        "id": 18,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": true,
+    "beach_front": true,
+    "river_side": true,
+    "description": " Our goal is to make your stay as comfortable as possible. A homely environment away from home.",
+    "hostedby": "Bhaskar"
+  },
+  {
+    "id": 77,
+    "name": "The Aspire Rooms",
+    "price": 3180,
+    "rating": 4.99,
+    "location": "Chandigarh",
+    "location_nearby": "Punjab",
+    "img": [
+      "https://a0.muscache.com/im/pictures/3236a52d-7e6d-4a83-8e73-84f1d8c349ed.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/4fd172b8-e6cf-4982-a707-cb77003c1c8f.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/63f02ffe-2ea7-46b8-b6ed-b4dbec4bec6c.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/86b1c554-8ed1-44da-9139-42bcef404548.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/89c3336b-1f27-4b92-bdb9-6a6fd969fe54.jpg?im_w=1200"
+    ],
+    "cancel": true,
+    "typeofplace": "Hotel",
+    "instant_booking": true,
+    "parking": true,
+    "pool": true,
+    "tv": true,
+    "kitchen": true,
+    "wifi": true,
+    "heating": false,
+    "hair_dryer": true,
+    "ac": true,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "beds": 5,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 2,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 3,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 4,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 5,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 6,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 7,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 8,
+        "comment": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+      },
+      {
+        "id": 9,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 10,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 11,
+        "comment": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
+      },
+      {
+        "id": 12,
+        "comment": "Sed ante. Vivamus tortor. Duis mattis egestas metus."
+      },
+      {
+        "id": 13,
+        "comment": "In congue. Etiam justo. Etiam pretium iaculis justo."
+      },
+      {
+        "id": 14,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": false,
+    "beach_front": true,
+    "river_side": true,
+    "description": "Enjoy Free WIFI, Free Cable TV, Complete Hygenic premise, Free Parking, Very peaceful and complete nature surrounded property with a Hotel lawn to relax. All rooms have attached washrooms. In-house kitchen for breakfast. Care taker, Intercom facility. Air-conditioned rooms.",
+    "hostedby": "Arshdeep"
+  },
+  {
+    "id": 78,
+    "name": "Townhouse",
+    "price": 7770,
+    "rating": 1.35,
+    "location": "Chandigarh",
+    "location_nearby": "Punjab",
+    "img": [
+      "https://a0.muscache.com/im/pictures/132f6b27-59fa-4c1f-99b6-41e703417374.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/8a14336e-22fb-4eb2-a40d-6d87fc122636.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/a43efd6d-91e3-4aeb-a18a-e2a85f5b7ee7.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/bcd3c8e7-37af-48f5-a7f8-401a34affa7c.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/cf5f3665-0e3d-4afb-a215-03bafb4dd338.jpg?im_w=960"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": false,
+    "parking": false,
+    "pool": true,
+    "tv": true,
+    "kitchen": true,
+    "wifi": false,
+    "heating": true,
+    "hair_dryer": true,
+    "ac": false,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "beds": 2,
+    "self_checkin": true,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      {
+        "id": 2,
+        "comment": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "id": 3,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 4,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 5,
+        "comment": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "id": 6,
+        "comment": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      },
+      {
+        "id": 7,
+        "comment": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "id": 8,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 9,
+        "comment": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      },
+      {
+        "id": 10,
+        "comment": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      },
+      {
+        "id": 11,
+        "comment": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "id": 12,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 13,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 14,
+        "comment": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      },
+      {
+        "id": 16,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      },
+      { "id": 17, "comment": "Fusce consequat. Nulla nisl. Nunc nisl." },
+      {
+        "id": 18,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": false,
+    "beach_front": false,
+    "river_side": false,
+    "description": "Independent 2nd floor one Bed Room spacious Studio + an extra room, kitchen just 5 minute drive from Airport. The place is comfortably located at Krishna Nagar near to Road",
+    "hostedby": "Celvin"
+  },
+  {
+    "id": 79,
+    "name": "Homestay",
+    "price": 14785,
+    "rating": 1.93,
+    "location": "Chandigarh",
+    "location_nearby": "Punjab",
+    "img": [
+      "https://a0.muscache.com/im/pictures/1f094089-0cc9-49ad-9c01-dc78e003accd.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/cf5f3665-0e3d-4afb-a215-03bafb4dd338.jpg?im_w=960",
+      "https://a0.muscache.com/im/pictures/cf092dd8-b319-4d83-91d4-33dd1ab63451.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/c6fdfdce-c2ec-43ee-b6a3-6b2c4fca3865.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/bcd3c8e7-37af-48f5-a7f8-401a34affa7c.jpg?im_w=960"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": false,
+    "parking": true,
+    "pool": false,
+    "tv": false,
+    "kitchen": true,
+    "wifi": true,
+    "heating": false,
+    "hair_dryer": true,
+    "ac": false,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "beds": 3,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 2,
+        "comment": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      },
+      {
+        "id": 3,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      },
+      {
+        "id": 4,
+        "comment": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      },
+      {
+        "id": 5,
+        "comment": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": true,
+    "beach_front": true,
+    "river_side": false,
+    "description": "Independent 2nd floor one Bed Room spacious Studio + an extra room, kitchen just 5 minute drive from Airport. The place is comfortably located at Krishna Nagar near to Road",
+    "hostedby": "Harsh Pahwa"
+  },
+  {
+    "id": 80,
+    "name": "Suraj International",
+    "price": 11285,
+    "rating": 2.12,
+    "location": "Chandigarh",
+    "location_nearby": "Punjab",
+    "img": [
+      "https://a0.muscache.com/im/pictures/8f8e7c93-1634-4d05-8dc7-d76ef4bb38a2.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/aba321fc-c4ac-4621-92d5-2f70af775b0d.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/9489ad73-4aef-49f6-8e17-1dd73eaf57f1.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/8a14336e-22fb-4eb2-a40d-6d87fc122636.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/8676690a-476d-4e8d-adf8-0ac9b2d8c470.jpg?im_w=720"
+    ],
+    "cancel": false,
+    "typeofplace": "Hotel",
+    "instant_booking": true,
+    "parking": false,
+    "pool": false,
+    "tv": true,
+    "kitchen": true,
+    "wifi": true,
+    "heating": false,
+    "hair_dryer": false,
+    "ac": false,
+    "pets": true,
+    "smoking": false,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "beds": 3,
+    "self_checkin": false,
+    "review": [
+      {
+        "id": 1,
+        "comment": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "id": 2,
+        "comment": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "id": 3,
+        "comment": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "id": 4,
+        "comment": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "id": 5,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 6,
+        "comment": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "id": 7,
+        "comment": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "id": 8,
+        "comment": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+      },
+      {
+        "id": 9,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 10,
+        "comment": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      },
+      {
+        "id": 11,
+        "comment": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
+      },
+      {
+        "id": 12,
+        "comment": "Sed ante. Vivamus tortor. Duis mattis egestas metus."
+      },
+      {
+        "id": 13,
+        "comment": "In congue. Etiam justo. Etiam pretium iaculis justo."
+      },
+      {
+        "id": 14,
+        "comment": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "id": 15,
+        "comment": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      }
+    ],
+    "no_of_guest": 2,
+    "gym": true,
+    "beach_front": true,
+    "river_side": true,
+    "description": "It is an open airy apartment,suitable for group of family members or friends.Fully furnished with all the amenities that you might think of at your home.Its more of a home away yet home.",
+    "hostedby": "Arshdeep"
+  }
+]
