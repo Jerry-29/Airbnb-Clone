@@ -2,26 +2,25 @@
   float: right;
 }
 .imgdiv {
-  height: 260px;
-  width: 260px;
-  border: 1px solid;
+  margin-top: 10px;
+  height: 200px;
+  width: 450px;
+  /* border: 1px solid; */
+  border-radius: 15px;
 }
-.image{
-    width: 100%;
-    height: 60px;
-}
+
 .discriptiondiv {
   width: 70%;
   float: right;
-  border: 1px solid green;
+  /* border: 1px solid green; */
   margin-left: 10px;
-
+ line-height:19px;
 }
 .Leftdiv {
-  border: 1px solid rgb(217, 0, 255);
+  border: 1px solid gray;
   display: flex;
   width: 55%;
-  
+  margin-left: 5px;
 }
 .night {
   color: gray;

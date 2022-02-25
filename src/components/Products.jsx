@@ -1,5 +1,6 @@
 import data from "../Lucknow.json";
 import  Cards  from "./Cards";
+
 import "./product.css";
 
 export const Products = () => {
@@ -10,7 +11,9 @@ export const Products = () => {
         
         {data.map((e) => {
           return (
+           
             <Cards {...e}/>
+            
           )
         })}
       </div>
