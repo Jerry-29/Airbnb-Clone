@@ -1,6 +1,7 @@
 .fl-cont1 {
   width: 50%;
   margin: auto;
+  text-align:left;
 }
 
 .box1 {
@@ -15,6 +16,7 @@
 
 .heads {
   margin-left: 5%;
+  text-align: left;
 }
 .backgg p {
   color: white;

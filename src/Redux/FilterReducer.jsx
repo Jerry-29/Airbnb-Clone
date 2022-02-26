@@ -7,7 +7,8 @@ import {
   FILTER_BY_WIFI,
   FILTER_BY_WM,
   SHOW_FILTER_DATA,
-  SHOW_SEARCH_PLACE
+  SHOW_SEARCH_PLACE,
+  GET_PRODUCT_BY_ID
 } from "./actiontype";
 
 import data from "../db.json";
@@ -63,6 +64,11 @@ export const FilterReducer = (store = init, { type, payload }) => {
         return str===payload
       }) 
       return {...store,data:searchdata} 
+     case GET_PRODUCT_BY_ID: 
+     let databyid=data.slice().filter(e=>{
+       return e.id==payload
+     })
+     return {...store,data:databyid}
     default:
       return store;
   }

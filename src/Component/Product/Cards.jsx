@@ -3,13 +3,15 @@ import ReactDOM from "react-dom";
 import "./Cards.css";
 import { Render } from "./GoogleMap";
 import ImageSlider from "./ImageSlider";
-
+import { Link } from "react-router-dom";
 const Cards = (props) => {
   //   console.log(props);
   const images = props.img;
 // console.log(props.review.length);
  
   return (
+    <>
+     <Link to={`/products/${props.id}`}>
     <div
       className="Leftdiv"
       onClick={() => {
@@ -49,8 +51,8 @@ const Cards = (props) => {
       </div>
       
     </div>
-   
-    
+    </Link>
+    </>
   );
  
 };

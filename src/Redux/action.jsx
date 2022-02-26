@@ -9,7 +9,8 @@ import {
   FILTER_BY_WIFI,
   FILTER_BY_WM,
   SHOW_FILTER_DATA,
-  SHOW_SEARCH_PLACE
+  SHOW_SEARCH_PLACE,
+  GET_PRODUCT_BY_ID
 } from "./actiontype";
 
 export const filterbycancellation = (payload) => ({
@@ -37,4 +38,7 @@ export const showfilterdata = (payload) => ({
 export const showsearchdata=(payload)=>(
   {type:SHOW_SEARCH_PLACE,payload}
 )
+export const getproductbyid=(payload)=>{
+  return {type:GET_PRODUCT_BY_ID,payload}
+}
 

@@ -7,8 +7,7 @@ export const Card = (props) => {
         <div className="backg">
           <img src={props.imgSrc} alt="" />
           <h2 className="h2">{props.city}</h2>
-          
-          <p className="p">{props.desc}</p>
+          <p style={{textAlign:"left"}} className="p">{props.desc}</p>
         </div>
       </div>
     </div>

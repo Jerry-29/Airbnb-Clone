@@ -4,7 +4,7 @@ import { StyledEngineProvider } from "@mui/material/styles";
 import CustomDateRangePickerDay from "./DataPicker";
 import states from "../db.json";
 import { useDispatch } from "react-redux";
-import { showfilterdata } from "../Redux/action";
+import { showfilterdata,showsearchdata } from "../Redux/action";
 import { Link } from "react-router-dom";
 import { GuestsCounter } from "./GuestsCounter";
 export const Search = (props) => {
@@ -24,6 +24,7 @@ export const Search = (props) => {
         });
 
         setFilteredStates(filter);
+        showSearchData()
       }, 500);
     }
 
@@ -176,7 +177,12 @@ export const Search = (props) => {
                             </svg>
                           </p>
                           <p onclick={()=>{
-                            dispatch(showSearchData(search))
+                            console.log("pay","hi")
+
+                            // dispatch(showsearchdata(search))
+                            // showSearchData()
+
+                            console.log("load","bye")
                           }} className="search-output-list">
                             {e.name},{e.location}
                           </p>

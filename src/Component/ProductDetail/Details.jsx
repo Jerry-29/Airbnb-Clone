@@ -1,7 +1,7 @@
 import React from "react";
 
-import { useState } from "react";
-
+import { useState} from "react";
+import {useParams} from 'react-router-dom'
 import "./Details.css";
 import PermIdentityIcon from "@mui/icons-material/PermIdentity";
 import DeleteIcon from "@mui/icons-material/Delete";
@@ -23,6 +23,8 @@ import ConnectedTvIcon from "@mui/icons-material/ConnectedTv";
 import PrivacyTipIcon from "@mui/icons-material/PrivacyTip";
 //import StaticDatePickerLandscape from './Calender';
 import DateRangePickerComponent from "./Calender";
+import { useDispatch, useSelector } from "react-redux";
+import { getproductbyid } from "../../Redux/action";
 
 //import 'react-dates/initialize';
 // import 'react-dates/lib/css/_datepicker.css';
@@ -31,6 +33,13 @@ import DateRangePickerComponent from "./Calender";
 export function Details() {
   const [fix, setFix] = useState(false);
 
+  const {id}=useParams()
+  const dispatch=useDispatch()
+  dispatch(getproductbyid(id))
+  console.log(id)
+
+  const {data}=useSelector(store=>store.FilterReducer)
+   console.log(data)
   const makeFix = () => {
     console.log(window.scrollY);
     if (window.scrollY >= 600 && window.scrollY <= 1500) {
@@ -46,11 +55,11 @@ export function Details() {
     <div className="container---">
       <div className="container1">
         <h2 className="l1">
-          Private room in bungalow hosted
+         { data.name}
           <img
             alt=""
             className="subrat"
-            src="https://a0.muscache.com/im/pictures/user/0e48d461-576c-4484-b0ac-2c42eb1d6a40.jpg?im_w=240"
+            src={`${data.img}`}
           />
         </h2>
         <h6 className="l2">1 guest. 1 bedroom1 bed. 1 private bathroom</h6>
@@ -60,12 +69,12 @@ export function Details() {
         <div className={fix ? "fixbox fixed" : "fixbox"}>
           <div className="top">
             <div className="left">
-              <p>₹6,143 / night</p>
+              <p>₹{data.price} / night</p>
             </div>
 
             <div className="right">
               <p>
-                <StarIcon /> 4.96 .27 Reviews
+                <StarIcon /> {data.rating} Reviews
               </p>
             </div>
           </div>
@@ -93,11 +102,10 @@ export function Details() {
         <h6>
           {" "}
           <PermIdentityIcon />
-          Subrat is a Superhost{" "}
+          Hoisted by{ data.hostedby}
         </h6>
         <p>
-          Superhosts are experienced, highly rated hosts who are committed to
-          providing great stays for their guests.
+         {data.description}
         </p>
 
         <div className="l3">
@@ -124,7 +132,7 @@ export function Details() {
         </div>
         <div className="l6">
           <h6>Guest access</h6>
-          <p>Private room , Cafeteria and the front garden.</p>
+          <p>{data.name}</p>
         </div>
         <div className="example"></div>
       </div>
