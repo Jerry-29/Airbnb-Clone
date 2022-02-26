@@ -9,9 +9,14 @@ body {
   line-height: 1.43;
   color: #484848;
   background-color: #fff;
-  margin: 1%;
+  /* margin: 1%; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  max-width: 100%;
+ padding: 0px;
+ margin: 0%;
+ overflow-x: hidden;
+
 }
 .header-section-left {
   display: block;
@@ -20,9 +25,10 @@ body {
 .container-top {
   display: flex;
   align-items: center;
-  gap: 20%;
+  gap: 22%;
   align-content: center;
   justify-content: center;
+  margin-top: 2%;
 }
 .header-section-center {
   border: 1px solid lightslategray;
@@ -62,7 +68,7 @@ body {
 .addguest-div {
   border-radius: 50%;
   background-color: #ff385c;
-  padding: 6%;
+  padding: 12%;
 }
 .addguest-svg {
   display: block;

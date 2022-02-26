@@ -238,7 +238,7 @@ export const Search = (props) => {
                 </div>
               ) : null}
             </div>
-            <div onclick={showSearchData} className="addguest-div-search">
+          <Link to="/products"><div onclick={showSearchData} className="addguest-div-search">
               <svg
                 className="addguest-svg"
                 viewBox="0 0 50 32"
@@ -249,6 +249,7 @@ export const Search = (props) => {
                 </g>
               </svg>
             </div>
+            </Link>
           </div>
         </div>
       </div>

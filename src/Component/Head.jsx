@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { useDispatch } from "react-redux";
+import { Link } from "react-router-dom";
 
 import { Search } from "./Search";
 
@@ -54,9 +55,9 @@ export const Head = () => {
               <span className="text-seperator">|</span>
               <div className="booking-date-div">9-10 Mar</div>
               <span className="text-seperator">|</span>
-              <div className="addguest-main">
-                <div className="addguest-text">Add guests</div>
-                <div className="addguest-div">
+              <Link to="/products">  <div className="addguest-main">
+               <div className="addguest-text">Add guests</div>
+               <div className="addguest-div">
                   <svg
                     className="addguest-svg"
                     viewBox="0 0 50 32"
@@ -67,7 +68,9 @@ export const Head = () => {
                     </g>
                   </svg>
                 </div>
+             
               </div>
+              </Link>
             </div>
           </div>
           <div className="header-section-right">

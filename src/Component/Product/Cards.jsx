@@ -20,7 +20,8 @@ const Cards = (props) => {
       <div className="imgdiv">
         <ImageSlider str={images} />
       </div>
-      <Link to={`/products/${props.id}`}>
+      <Link style={{textDecoration: 'none'
+    }} to={`/products/${props.id}`}>
       <div className="discriptiondiv">
         <div>
           <p>{props.typeofplace}</p>

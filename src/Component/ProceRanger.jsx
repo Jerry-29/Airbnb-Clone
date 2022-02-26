@@ -17,7 +17,10 @@ return (
 	<div style={{
 	margin: 'auto',
 	display: 'block',
-	width: 'fit-content'
+	width: 'fit-content',
+	position:"absolute",
+	zIndex:"10",
+	left:'4%'
 	}}>
 	{/* <h3></h3> */}
 	<Typography id="range-slider" gutterBottom>

@@ -6,6 +6,7 @@
   height: 400px;
   z-index: 8;
   position: absolute;
+  background-color: whitesmoke;
 }
 
 .container-placetype {

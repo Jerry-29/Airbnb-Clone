@@ -1,6 +1,7 @@
 import { StyledEngineProvider } from "@mui/material";
 import { useEffect, useState } from "react";
 import { useDispatch } from "react-redux";
+import { Link } from "react-router-dom";
 import {
   filterbyac,
   filterbycancellation,
@@ -68,7 +69,7 @@ export const ProductHead = () => {
               <span className="text-seperator">|</span>
               <div className="addguest-main">
                 <div className="addguest-text">Add guests</div>
-                <div className="addguest-div">
+               <div className="addguest-div">
                   <svg
                     className="addguest-svg"
                     viewBox="0 0 50 32"
