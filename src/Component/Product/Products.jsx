@@ -5,6 +5,7 @@ import  Cards  from "./Cards";
 // import { Render } from "./GoogleMap";
 
 import "./product.css";
+import { EmbedMap } from "./GoogleMap";
 
 
 
@@ -14,9 +15,8 @@ export const Products = () => {
   const {data}=useSelector(store=>store.FilterReducer)
   console.log("hihiihihhihi",data);
   return (
-    <div className="Main">
-      <div >
-        
+    <div className="Main-Products-and-Map-container">
+      <div className="Main-Products-and-Map-container-left">
         {data.map((e) => {
           return (
            
@@ -24,6 +24,9 @@ export const Products = () => {
             
           )
         })}
+      </div>
+      <div className="Main-Products-and-Map-container-right">
+        <EmbedMap/>
       </div>
      
     </div>

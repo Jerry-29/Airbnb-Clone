@@ -6,7 +6,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 const ImageSlider = ({ str }) => {
   // console.log(str);
   return (
-    <Carousel>
+    <Carousel showThumbs={false}>
       {str.map((slide) => {
         return (
           <Box>
@@ -14,8 +14,9 @@ const ImageSlider = ({ str }) => {
               src={slide}
               borderRadius="20px"
               height="250px"
-              marginTop="25px"
+              // marginTop="25px"
               marginLeft="5px"
+              
 
             />
           </Box>

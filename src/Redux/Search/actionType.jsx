@@ -1,0 +1,2 @@
+export const SEARCH_LOCATION='SEARCH_LOCATION'
+export const SET_SEARCH='SET_SEARCH'

@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, createContext } from "react";
 import "../CSS/Search.css";
 import { StyledEngineProvider } from "@mui/material/styles";
 import CustomDateRangePickerDay from "./DataPicker";
@@ -7,6 +7,7 @@ import { useDispatch } from "react-redux";
 import { showfilterdata,showsearchdata } from "../Redux/action";
 import { Link } from "react-router-dom";
 import { GuestsCounter } from "./GuestsCounter";
+import { setsearchtext } from "../Redux/Search/action";
 export const Search = (props) => {
   const [showunderline, setUnderline] = useState(false);
   const [debouncingbox, showDebouncingbox] = useState(false);
@@ -15,6 +16,7 @@ export const Search = (props) => {
 
   const dispatch = useDispatch();
   const [showguest, setGuest] = useState(false);
+
   useEffect(() => {
     let timer;
     if (search !== "") {
@@ -24,12 +26,17 @@ export const Search = (props) => {
         });
 
         setFilteredStates(filter);
-        showSearchData()
+        // showSearchData()
       }, 500);
     }
 
+    if(search?.length>=3){
+    dispatch(setsearchtext(search))
+    }
     return () => clearTimeout(timer);
   }, [search, showguest]);
+
+  
 
   const handelhoveronexperieneence = () => {
     if (showunderline) {

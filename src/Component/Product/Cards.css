@@ -5,6 +5,7 @@
   margin-top: 10px;
   height: 200px;
   width: 450px;
+  /* background-color: blueviolet; */
   /* border: 1px solid; */
   border-radius: 15px;
 }
@@ -17,10 +18,14 @@
  line-height:19px;
 }
 .Leftdiv {
-  border: 1px solid gray;
+  /* border: 1px solid gray; */
   display: flex;
-  width: 55%;
+  width: 95%;
   margin-left: 5px;
+  text-align: left;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
 }
 .night {
   color: gray;
@@ -29,10 +34,17 @@
 }
 .name {
   font-size: 25px;
+  line-height: 30px;
 }
 .star {
   color: orangered;
 }
 .beds{
     display: flex;
+}
+.Cards-main-container{
+  display: flex;
+}
+.right-div-products-map-container{
+  width: 400px;
 }

@@ -39,27 +39,27 @@ export function Details() {
   console.log(id)
 
   const {data}=useSelector(store=>store.FilterReducer)
-   console.log(data)
-  const makeFix = () => {
-    console.log(window.scrollY);
-    if (window.scrollY >= 600 && window.scrollY <= 1500) {
-      setFix(true);
-    } else {
-      setFix(false);
-    }
-  };
+   console.log(data[0].img)
+  // const makeFix = () => {
+  //   console.log(window.scrollY);
+  //   if (window.scrollY >= 600 && window.scrollY <= 1500) {
+  //     setFix(true);
+  //   } else {
+  //     setFix(false);
+  //   }
+  // };
 
-  window.addEventListener("scroll", makeFix);
+  // window.addEventListener("scroll", makeFix);
 
   return (
     <div className="container---">
       <div className="container1">
         <h2 className="l1">
-         { data.name}
+         { data[0].name}
           <img
             alt=""
             className="subrat"
-            src={`${data.img}`}
+            src={`${data[0].img[0]}`}
           />
         </h2>
         <h6 className="l2">1 guest. 1 bedroom1 bed. 1 private bathroom</h6>
@@ -69,12 +69,12 @@ export function Details() {
         <div className={fix ? "fixbox fixed" : "fixbox"}>
           <div className="top">
             <div className="left">
-              <p>₹{data.price} / night</p>
+              <p>₹{data[0].price} / night</p>
             </div>
 
             <div className="right">
               <p>
-                <StarIcon /> {data.rating} Reviews
+                <StarIcon /> {data[0].rating} Reviews
               </p>
             </div>
           </div>
@@ -102,10 +102,10 @@ export function Details() {
         <h6>
           {" "}
           <PermIdentityIcon />
-          Hoisted by{ data.hostedby}
+          Hoisted by{ data[0].hostedby}
         </h6>
         <p>
-         {data.description}
+         {data[0].description}
         </p>
 
         <div className="l3">
@@ -132,7 +132,7 @@ export function Details() {
         </div>
         <div className="l6">
           <h6>Guest access</h6>
-          <p>{data.name}</p>
+          <p>{data[0].name}</p>
         </div>
         <div className="example"></div>
       </div>

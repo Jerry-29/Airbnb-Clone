@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./Cards.css";
-import { Render } from "./GoogleMap";
+import { EmbedMap, Render } from "./GoogleMap";
 import ImageSlider from "./ImageSlider";
 import { Link } from "react-router-dom";
 const Cards = (props) => {
@@ -10,8 +10,7 @@ const Cards = (props) => {
 // console.log(props.review.length);
  
   return (
-    <>
-     <Link to={`/products/${props.id}`}>
+    <div className="Cards-main-container">
     <div
       className="Leftdiv"
       onClick={() => {
@@ -21,6 +20,7 @@ const Cards = (props) => {
       <div className="imgdiv">
         <ImageSlider str={images} />
       </div>
+      <Link to={`/products/${props.id}`}>
       <div className="discriptiondiv">
         <div>
           <p>{props.typeofplace}</p>
@@ -49,10 +49,9 @@ const Cards = (props) => {
           </h4>
         </div>
       </div>
-      
+      </Link>
     </div>
-    </Link>
-    </>
+    </div>
   );
  
 };
