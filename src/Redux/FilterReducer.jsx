@@ -6,7 +6,8 @@ import {
   FILTER_BY_PARKING,
   FILTER_BY_WIFI,
   FILTER_BY_WM,
-  SHOW_FILTER_DATA
+  SHOW_FILTER_DATA,
+  SHOW_SEARCH_PLACE
 } from "./actiontype";
 
 import data from "../db.json";
@@ -54,6 +55,14 @@ export const FilterReducer = (store = init, { type, payload }) => {
       return { ...store, data: filter7 };
     case SHOW_FILTER_DATA:
       return { ...store, data: payload };
+    case SHOW_SEARCH_PLACE:
+      let searchdata=data.slice().filter((e)=>{
+        let str=e.location
+        str=str.toLowerCase()
+        payload=payload.toLowerCase()
+        return str===payload
+      }) 
+      return {...store,data:searchdata} 
     default:
       return store;
   }

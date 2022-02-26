@@ -8,7 +8,8 @@ import {
   FILTER_BY_PRICE,
   FILTER_BY_WIFI,
   FILTER_BY_WM,
-  SHOW_FILTER_DATA
+  SHOW_FILTER_DATA,
+  SHOW_SEARCH_PLACE
 } from "./actiontype";
 
 export const filterbycancellation = (payload) => ({
@@ -33,4 +34,7 @@ export const showfilterdata = (payload) => ({
   type: SHOW_FILTER_DATA,
   payload
 });
+export const showsearchdata=(payload)=>(
+  {type:SHOW_SEARCH_PLACE,payload}
+)
 
