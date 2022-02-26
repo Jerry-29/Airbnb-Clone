@@ -1,0 +1,190 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    Helvetica Neue, sans-serif;
+  font-size: 14px;
+  line-height: 1.43;
+  color: #484848;
+  background-color: #fff;
+  margin: 1%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.header-section-left {
+  display: block;
+  color: #ff385c;
+}
+.container-top {
+  display: flex;
+  align-items: center;
+  gap: 20%;
+  align-content: center;
+  justify-content: center;
+}
+.header-section-center {
+  border: 1px solid lightslategray;
+  display: flex;
+  justify-content: space-between;
+  width: 20rem;
+  padding: 1.5%;
+  border-radius: 40px;
+  align-items: center;
+  align-content: center;
+  margin-left: 20%;
+}
+.location-div {
+  margin-left: 5%;
+  color: black;
+  font-weight: 600;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    "Helvetica Neue", sans-serif;
+}
+.text-seperator {
+  opacity: 0.2;
+  font-size: 30px;
+}
+.booking-date-div {
+  color: black;
+  font-weight: 600;
+}
+.addguest-main {
+  display: flex;
+  align-items: center;
+}
+.addguest-text {
+  width: 120px;
+  margin-right: 7%;
+  /* border: 1px solid black; */
+}
+.addguest-div {
+  border-radius: 50%;
+  background-color: #ff385c;
+  padding: 6%;
+}
+.addguest-svg {
+  display: block;
+  fill: none;
+  height: 20px;
+  width: 20px;
+  stroke-width: 5.33333;
+  overflow: visible;
+  stroke: white;
+  margin-left: 20%;
+  margin-top: 4%;
+}
+.globe-svg {
+  display: block;
+  height: 16px;
+  width: 16px;
+  fill: currentcolor;
+}
+.profile-svg1 {
+  display: block;
+  fill: none;
+  height: 16px;
+  width: 16px;
+  stroke: currentcolor;
+  stroke-width: 3;
+  overflow: visible;
+  margin-left: 8%;
+}
+.header-section-right {
+  display: flex;
+  gap: 1rem;
+  justify-items: center;
+  align-items: center;
+}
+.profile-img {
+  border-radius: 50%;
+  width: 50%;
+}
+.header-section-right-profile {
+  display: flex;
+  align-items: center;
+  gap: 10%;
+  border-radius: 20px;
+  border: 1px solid lightgray;
+  justify-content: space-between;
+}
+.become-a-host {
+  border: none;
+  background-color: transparent;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  padding-left: 0%;
+  padding-right: 0%;
+  width: 140px;
+}
+.globe-svg-div {
+  /* border-radius: 50%; */
+  /* background-color:red; */
+  padding: 5%;
+}
+.globe-svg-div:hover {
+  background-color: #f7f7f7;
+  padding: 5%;
+  border-radius: 50%;
+}
+.become-a-host:hover {
+  background-color: #f7f7f7;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  padding-left: 0%;
+  padding-right: 0%;
+  width: 140px;
+  border-radius: 20px;
+}
+.filter-btn {
+  border-radius: 20px;
+  border: 1px solid lightslategray;
+  padding: 0.5%;
+  padding-top: 0.8%;
+  padding-bottom: 0.8%;
+  background-color: white;
+}
+.sorting-filter-main-div {
+  display: flex;
+  align-items: center;
+  padding: 2%;
+  justify-content: space-around;
+}
+.filter-by-price {
+  width: 8%;
+}
+.filter-by-type-place {
+  width: 10%;
+}
+.filter-by-cancellation {
+  width: 11%;
+}
+.filter-by-wifi {
+  width: 5%;
+}
+.filter-by-kitchen {
+  width: 7%;
+}
+.filter-by-ac {
+  width: 11%;
+}
+.filter-by-washingmachine {
+  width: 11%;
+}
+.filter-by-iron {
+  width: 5%;
+}
+.filter-by-parking {
+  width: 10%;
+}
+.filter-by-advancefilters {
+  width: 7%;
+}
+.hide-price {
+  display: block;
+}
+.hide-price2 {
+  display: none;
+}
+/* pricecss */

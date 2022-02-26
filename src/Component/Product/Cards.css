@@ -1,0 +1,38 @@
+.price {
+  float: right;
+}
+.imgdiv {
+  margin-top: 10px;
+  height: 200px;
+  width: 450px;
+  /* border: 1px solid; */
+  border-radius: 15px;
+}
+
+.discriptiondiv {
+  width: 70%;
+  float: right;
+  /* border: 1px solid green; */
+  margin-left: 10px;
+ line-height:19px;
+}
+.Leftdiv {
+  border: 1px solid gray;
+  display: flex;
+  width: 55%;
+  margin-left: 5px;
+}
+.night {
+  color: gray;
+
+  font-weight: lighter;
+}
+.name {
+  font-size: 25px;
+}
+.star {
+  color: orangered;
+}
+.beds{
+    display: flex;
+}

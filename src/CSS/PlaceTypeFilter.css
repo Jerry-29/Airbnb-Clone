@@ -1,0 +1,110 @@
+.main-placetype {
+  border: 1px solid lightslategray;
+  border-radius: 10px;
+  width: 28%;
+  margin-left: 12%;
+  height: 400px;
+  z-index: 8;
+  position: absolute;
+}
+
+.container-placetype {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 50px;
+  height: 50px;
+}
+
+.container-placetype input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.checkmark {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+.container-placetype:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+.container-placetype input:checked ~ .checkmark {
+  background-color: black;
+  color: red;
+}
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.container-placetype input:checked ~ .checkmark:after {
+  display: block;
+}
+
+.container-placetype .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.checkbox-text-div {
+  display: flex;
+  flex-direction: column;
+}
+.checkbox-text1 {
+  font-weight: 600;
+}
+.checkbox-text2 {
+  margin-top: -14px;
+}
+.checkbox-and-text-div {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  text-align: start;
+}
+
+.div-placetype {
+  display: flex;
+  gap: 60%;
+  padding: 5%;
+}
+.button-placetype-save {
+  background-color: black;
+  color: white;
+  border-radius: 6px;
+  padding: 1%;
+  margin-top: -10px;
+  width: 70px;
+  cursor: pointer;
+}
+.button-placetype-clear {
+  background-color: transparent;
+  text-decoration: underline;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+.placetype-line {
+  opacity: 0.5;
+}

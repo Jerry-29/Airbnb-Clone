@@ -1,0 +1,10 @@
+.Main {
+  background-color: whitesmoke;
+  margin-top: 100px;
+
+  border: 1px solid teal;
+}
+
+.title {
+  height: 150px;
+}
