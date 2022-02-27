@@ -4,7 +4,11 @@
 .imgdiv {
   /* margin-top: 20px; */
   height: 200px;
-  width: 450px; */
+<<<<<<< HEAD
+  width: 450px; 
+=======
+  width: 450px;
+>>>>>>> 446cd13b6cb3701e5a048d2409c5d138051fe01e
   border-radius: 15px;
 }
 
