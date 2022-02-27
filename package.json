@@ -26,6 +26,7 @@
     "react-scripts": "^5.0.0",
     "redux": "^4.1.2",
     "redux-thunk": "^2.4.1",
+    "start": "^5.1.0",
     "styled-components": "^5.3.3"
   },
   "devDependencies": {
