@@ -5,8 +5,9 @@
   /* margin-top: 20px; */
   height: 200px;
   width: 450px;
+  /* border: 1px solid; */
   border-radius: 15px;
-  margin-bottom: 20px;
+  padding: 2%;
 }
 
 .discriptiondiv {
