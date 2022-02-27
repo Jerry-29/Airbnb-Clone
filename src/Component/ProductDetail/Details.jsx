@@ -25,7 +25,7 @@ import PrivacyTipIcon from "@mui/icons-material/PrivacyTip";
 import DateRangePickerComponent from "./Calender";
 import { useDispatch, useSelector } from "react-redux";
 import { getproductbyid } from "../../Redux/action";
-
+import Banner from './Banner'
 //import 'react-dates/initialize';
 // import 'react-dates/lib/css/_datepicker.css';
 //import { DateRangePicker} from 'react-date-range';
@@ -53,6 +53,7 @@ export function Details() {
 
   return (
     <div className="container---">
+      <Banner></Banner>
       <div className="container1">
         <h2 className="l1">
          { data[0].name}
