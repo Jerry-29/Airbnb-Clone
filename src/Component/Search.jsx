@@ -26,7 +26,7 @@ export const Search = (props) => {
         });
 
         setFilteredStates(filter);
-        showSearchData()
+        // showSearchData(search)
       }, 500);
     }
 
