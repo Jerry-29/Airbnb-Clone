@@ -2,7 +2,7 @@
   float: right;
 }
 .imgdiv {
-  margin-top: 10px;
+  /* margin-top: 20px; */
   height: 200px;
   width: 450px;
   background-color: blueviolet;
@@ -11,15 +11,21 @@
 }
 
 .discriptiondiv {
-  width: 70%;
+  /* width: 70%; */
+  width: 500px;
+  height: 350px;
   float: right;
   /* border: 1px solid green; */
   margin-left: 10px;
- line-height:19px;
+  line-height:19px;
+  color: black;
+  gap: 5px;
 }
 .Leftdiv {
-  /* border: 1px solid gray; */
+  border: .5px solid gray;
+  border-radius: 10px;
   display: flex;
+ 
   width: 95%;
   margin-left: 5px;
   text-align: left;
@@ -44,6 +50,7 @@
 }
 .Cards-main-container{
   display: flex;
+  
 }
 .right-div-products-map-container{
   width: 400px;
