@@ -23,7 +23,9 @@
 }
 .Leftdiv {
   border: .5px solid gray;
+  border-radius: 10px;
   display: flex;
+ 
   width: 95%;
   margin-left: 5px;
   text-align: left;
