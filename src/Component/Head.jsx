@@ -61,7 +61,7 @@ export const Head = () => {
               <div className="booking-date-div">9-10 Mar</div>
               <span className="text-seperator">|</span>
               <Link to="/products">  <div className="addguest-main">
-               <div className="addguest-text">Add guests</div>
+               <div className="addguest-text">Book Hotel</div>
                <div className="addguest-div">
                   <svg
                     className="addguest-svg"
