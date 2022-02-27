@@ -1,5 +1,6 @@
 # Airbnb-Clone
-Airbnb, Inc. is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities
+Airbnb, Inc. is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities.
+Every day, Hosts offer unique stays and one-of-a-kind activities that make it possible for guests to experience the world in a more authentic, connected way.
 # Preview
 ![User Authentication](./public/Readme_data/projectprev.gif)
 
