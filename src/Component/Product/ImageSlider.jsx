@@ -14,10 +14,9 @@ const ImageSlider = ({ str }) => {
               src={slide}
               borderRadius="20px"
               height="250px"
-              // marginTop="25px"
+              width="300px"
+              marginTop="25px"
               marginLeft="5px"
-              
-
             />
           </Box>
         );

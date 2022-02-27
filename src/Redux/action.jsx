@@ -42,3 +42,9 @@ export const getproductbyid=(payload)=>{
   return {type:GET_PRODUCT_BY_ID,payload}
 }
 
+export const loggin=(payload)=>{
+  return {...store,status:payload}
+}
+export const logout=(payload)=>{
+  return {...store,status:payload}
+}
