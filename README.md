@@ -47,7 +47,7 @@ Airbnb, Inc. is an American company that operates an online marketplace for lodg
     <li>Open that code in your Code Editor</li>
     <li>Run 'npm install'</li>
     <li>Run 'npm start'</li>
-    <li>React will open project at http://localhost:3001/
+    <li>React will open project at http://localhost:3000/
     <li>Thats all !</li>
   </ul>
   
