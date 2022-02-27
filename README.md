@@ -6,35 +6,35 @@ Airbnb, Inc. is an American company that operates an online marketplace for lodg
 # Features
 <p>User Authentication </p>
 
-![User Authentication](./public/Readme_data/Screenshot(363).png)
-
-<!-- <p>Google Authentication</p>
-
-![User Authentication](./public/Images/shot1.png) -->
+![User Authentication](./public/Readme_data/shot4.png)
 
 <p>Home</p>
 
-![User Authentication](./public/Readme_data/Screenshot(363).png)
+![User Authentication](./public/Readme_data/shot1.png)
 
-<p>Hotel Lists</p>
+<p>Hotel List , Filters</p>
 
-![User Authentication](./public/Readme_data/Screenshot(363).png)
+![User Authentication](./public/Readme_data/shot2.png)
 
-<p>Search by Location & FIlter</p>
+<p>Hotel Lists search by Location and Map</p>
 
-![User Authentication](./public/Readme_data/Screenshot(361).png)
+![User Authentication](./public/Readme_data/shot3.png)
 
-<p>Products Details</p>
+<p>Hotel Details</p>
 
-![User Authentication](./public/Readme_data/Screenshot(362).png)
+![User Authentication](./public/Readme_data/shot5.jpg)
 
-<p>Cart</p>
+<p>Cart and Payment Methods</p>
 
-![User Authentication](./public/Readme_data/Screenshot(363).png)
+![User Authentication](./public/Readme_data/shot7.jpg)
 
 <p>Payment Successfull</p>
 
-![User Authentication](./public/Readme_data/Screenshot(363).png)
+![User Authentication](./public/Readme_data/shot6.jpg)
+
+<!-- <p>Payment Successfull</p>
+
+![User Authentication](./public/Readme_data/shot1.png) -->
 
 # Getting Started
 
