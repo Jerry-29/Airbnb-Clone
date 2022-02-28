@@ -5,7 +5,7 @@ import GooglePay from "../payment/GooglePay";
 export function Payment() {
   return (
     <div>
-      <h1 style={{ marginLeft: "-500px" }}>Confirm and pay</h1>
+      <h1 style={{ marginLeft: "-880px" }}>Confirm and pay</h1>
       <div className="payment-container">
         <div className="left">
           <div className="add">
