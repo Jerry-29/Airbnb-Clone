@@ -1,1 +1,5 @@
 @import url("https://cdn.syncfusion.com/ej2/material.css");
+.Date-picker {
+  margin-left: 500px !important;
+  margin-top: -36px;
+}

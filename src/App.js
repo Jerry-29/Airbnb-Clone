@@ -10,6 +10,8 @@ import {Login } from '../src/login/Login'
 import { useDispatch,useSelector } from "react-redux";
 import { Navigate } from "react-router";
 import { logout } from "./Redux/action";
+import { Detail } from "./Component/ProductDetail/Detail";
+import { Payment } from "./Component/ProductDetail/paymentPage/Payment";
 
 export default function App() {
 
@@ -31,7 +33,8 @@ export default function App() {
             <Route path="/" element={<HomePage />} />
             <Route path="/products" element={<Product />} />
             <Route path="/:id" element={<HotelbyId />} />
-            <Route path="/products/:id" element={<Details/>}/>
+            <Route path="/products/:id" element={<Detail/>}/>
+            <Route path="/payment" element={<Payment/>}/>
           </Routes>
         </BrowserRouter>
       </Provider>

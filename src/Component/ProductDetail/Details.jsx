@@ -1,7 +1,7 @@
 import React from "react";
 
 import { useState} from "react";
-import {useParams} from 'react-router-dom'
+import {useParams,Link} from 'react-router-dom'
 import "./Details.css";
 import PermIdentityIcon from "@mui/icons-material/PermIdentity";
 import DeleteIcon from "@mui/icons-material/Delete";
@@ -53,7 +53,6 @@ export function Details() {
 
   return (
     <div className="container---">
-      <Banner></Banner>
       <div className="container1">
         <h2 className="l1">
          { data[0].name}
@@ -90,9 +89,11 @@ export function Details() {
             </div>
             <div className="middle-bottom">Guest</div>
           </div>
+          <Link to="/payment">
           <div className="top _btn">
             <span>Check availability</span>
           </div>
+          </Link>
         </div>
       </div>
 
@@ -100,24 +101,35 @@ export function Details() {
                   <p>5.0  <span>15 review</span> <span>Superhost</span> . <span>Puri, Odisha, India</span></p>
               </div> */}
       <div className="l">
-        <h6>
-          {" "}
+        <h6 className="text-logo-align">
+          <h6>
           <PermIdentityIcon />
-          Hoisted by{ data[0].hostedby}
+          </h6>
+         <h6> Hoisted by { data[0].hostedby}</h6>
         </h6>
-        <p>
+        <p style={{width:"500px"}}>
          {data[0].description}
         </p>
 
-        <div className="l3">
-          <h6>
-            <LocationOnIcon /> Great location
+        <div className="l3 ">
+          <h6 className="text-logo-align">
+           <h6>
+           <LocationOnIcon />
+             </h6> 
+             <h6>
+             Great location
+             </h6>
           </h6>
           <p>100% of recent guests gave the location a 5-star rating.</p>
         </div>
         <div className="l4">
-          <h6>
-            <KeyIcon /> Great check-in experience
+          <h6 className="text-logo-align">
+           <h6>
+           <KeyIcon /> 
+           </h6>
+            <h6>
+            Great check-in experience
+            </h6>
           </h6>
           <p>
             100% of recent guests gave the check-in process a 5-star rating.
