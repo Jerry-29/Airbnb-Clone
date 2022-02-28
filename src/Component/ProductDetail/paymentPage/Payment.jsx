@@ -1,10 +1,12 @@
 import React from "react";
 import "./Payment.css";
 import GooglePay from "../payment/GooglePay";
+import { Head } from "../../Head";
 
 export function Payment() {
   return (
     <div>
+      <Head/>
       <h1 style={{ marginLeft: "-780px" }}>Confirm and pay</h1>
       <div className="payment-container">
         <div className="left">
