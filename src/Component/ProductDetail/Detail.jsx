@@ -4,11 +4,12 @@ import {Details} from "./Details";
 import "./Banner.css";
 import Calender from "./Calender";
 import Footer from "./Footer";
+import { Head } from "../Head";
 
 export function Detail() {
   return (
     <div>
-      <Navbar />
+      <Head/> 
       <Banner />
       <Details />
       <Footer />
